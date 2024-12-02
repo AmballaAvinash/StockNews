@@ -1,539 +1,84 @@
 {
     "status": "ok",
-    "totalResults": 153,
+    "totalResults": 74,
     "articles": [
         {
             "source": {
                 "id": null,
-                "name": "Android Central"
-            },
-            "author": "derrek.lee@futurenet.com (Derrek Lee)",
-            "title": "Oura Ring 4 vs. Oura Ring Gen 3: Should you upgrade?",
-            "description": "The Oura Ring 4 brings quite a few important upgrades over the Oura Ring Gen 3, but is it worth upgrading to? Should new smart ring buyers still consider the older model?",
-            "url": "https://www.androidcentral.com/wearables/oura-ring-4-vs-oura-ring-gen-3",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dyceobN6TGnV43AovR3zmN-1200-80.jpg",
-            "publishedAt": "2024-10-16T04:26:30Z",
-            "content": "The Oura Ring 4 is the latest and greatest smart ring from the Finnish company that started the wearable craze. However, the Oura Ring Gen 3 was the smart ring that led that trend, thanks to its impr\u2026 [+7629 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Jordan Hart",
-            "title": "Tim Cook is having a great week as Apple stock hovers within reach of record high",
-            "description": "IDC recently estimated that iPhone shipments rose 3.5% in the third quarter, and analysts are optimistic about holiday sales and Apple Intelligence.",
-            "url": "https://www.businessinsider.com/iphone-demand-shipments-holidays-apple-intelligence-analysts-optimistic-2024-10",
-            "urlToImage": "https://i.insider.com/670fd21d6ac7b701e7cc17d1?width=1200&format=jpeg",
-            "publishedAt": "2024-10-17T10:21:01Z",
-            "content": "Wall Street analysts expect Apple to get a boost from the rollout of its generative AI features, called Apple Intelligence.Michael M. Santiago/Getty Images\r\n<ul><li>IDC recently estimated that iPhone\u2026 [+4121 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Dan DeFrancesco",
-            "title": "An incoming 'M&A supercycle' wouldn't just be a win for dealmakers",
-            "description": "Goldman Sachs' earnings hint at the revival of the M&A market, which could help companies big and small.",
-            "url": "https://www.businessinsider.com/goldman-sachs-earnings-dealmaking-benefit-economy-2024-10",
-            "urlToImage": "https://i.insider.com/670fa446a70318649282b2f4?width=1000&format=jpeg",
-            "publishedAt": "2024-10-16T11:33:31Z",
-            "content": "Illustration by Budrul Chukrut/SOPA Images/LightRocket via Getty Images\r\n<ul><li>This post originally appeared in the Insider Today newsletter.</li><li>You can sign up for Business Insider's daily ne\u2026 [+7079 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Jyoti Mann",
-            "title": "Klarna, the buy-now, pay-later firm, is looking to make a Robinhood-like product for trading stocks, an internal job ad shows",
-            "description": "Klarna is recruiting four people to work on a product for customers to buy and sell stocks on its app, according to an internal message seen by BI.",
-            "url": "https://www.businessinsider.com/klarna-stock-trading-robinhood-bnpl-app-ipo-2024-10",
-            "urlToImage": "https://i.insider.com/670f9c6f3f2165d716e19e86?width=1200&format=jpeg",
-            "publishedAt": "2024-10-17T10:07:35Z",
-            "content": "Klarna is preparing for an IPO, widely anticipated to be in the US.Illustration by Thiago Prudencio/SOPA Images/LightRocket via Getty Images\r\n<ul><li>Klarna is assembling a team to build a stock-trad\u2026 [+3588 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Paolo.pm"
-            },
-            "author": "Paolo Lacche",
-            "title": "Why \"founder mode\" is a rebranding for micromanaging, top-down leaders",
-            "description": "We\u2019ve all been following the drama over the past few months: product management has been in the eye of the storm, beginning with Airbnb CEO introducing his new playbook without PMs, and culminating with a Paul Graham essay that glorifies this approach as the \u2026",
-            "url": "https://news.paolo.pm/p/apple-with-worms-why-founder-mode",
-            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1284dc41-3b00-4a72-8d78-94305a5d505a_1600x914.jpeg",
-            "publishedAt": "2024-10-17T11:51:21Z",
-            "content": "Weve all been following the drama over the past few months: product management has been in the eye of the storm, beginning with Airbnb CEO introducing his new playbook without PMs, and culminating wi\u2026 [+11328 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Ben Lovejoy",
-            "title": "M4 MacBook Pro production appears well underway, as launch expected soon",
-            "description": "We\u2019re expecting Apple to launch the M4 MacBook Pro by the end of the month, and supply-chain reports appear to corroborate this.\n\n\n\nRevenue and shipment reports from three Mac suppliers suggest that production is well underway, as Apple stockpiles machines re\u2026",
-            "url": "https://9to5mac.com/2024/10/17/m4-macbook-pro-production-appears-well-underway-as-launch-expected-soon/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/M4-MacBook-Pro-production-appears-well-underway.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-10-17T11:03:52Z",
-            "content": "We\u2019re expecting Apple to launch the M4MacBook Pro by the end of the month, and supply-chain reports appear to corroborate this.\r\nRevenue and shipment reports from three Mac suppliers suggest that pro\u2026 [+2348 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "9to5Mac"
-            },
-            "author": "Ben Lovejoy",
-            "title": "Apple projector could display AR and VR content without a headset",
-            "description": "A patent granted today describes an Apple projector capable of displaying a mix of AR and VR content onto the desk and walls of your home or office without the need for a headset or screen.\n\n\n\nThe company says that a mix of low-res and hi-res content could be\u2026",
-            "url": "https://9to5mac.com/2024/10/16/apple-projector-could-display-ar-and-vr-content-without-a-headset/",
-            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/Apple-projector-could-display-AR-and-VR-content-on-your-desk-and-walls.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-10-16T13:36:40Z",
-            "content": "A patent granted today describes an Apple projector capable of displaying a mix of AR and VR content onto the desk and walls of your home or office without the need for a headset or screen.\r\nThe comp\u2026 [+3270 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Applesfera.com"
-            },
-            "author": "Guille Lomener",
-            "title": "El iPhone que los expertos sugieren comprar en lugar del iPhone 16",
-            "description": "He trabajado durante a\u00f1os vendiendo iPhones en un Apple Premium Reseller. Y aunque yo siempre me compro el \u00faltimo modelo, de hecho, ya tengo el iPhone 16 Pro en mis manos, a\u00fan recuerdo esa \"investigaci\u00f3n\" que le hac\u00eda a los clientes para saber realmente qu\u00e9 m\u2026",
-            "url": "https://www.applesfera.com/iphone/iphone-que-expertos-sugieren-comprar-lugar-iphone-16",
-            "urlToImage": "https://i.blogs.es/97a799/duda-iphone/840_560.jpeg",
-            "publishedAt": "2024-10-16T15:00:53Z",
-            "content": "He trabajado durante a\u00f1os vendiendo iPhones en un Apple Premium Reseller. Y aunque yo siempre me compro el \u00faltimo modelo, de hecho, ya tengo el iPhone 16 Pro en mis manos, a\u00fan recuerdo esa \"investiga\u2026 [+4458 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Mental Floss"
-            },
-            "author": "A.J. Jacobs",
-            "title": "5 Ways Halloween Used to be Terrible",
-            "description": "Author A.J. Jacobs breaks down why you should be thankful you\u2019re celebrating Halloween today and not in eras past.",
-            "url": "https://www.mentalfloss.com/halloween-terrible-history",
-            "urlToImage": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1919,h_1079,x_0,y_0/v1728662697/images/voltaxMediaLibrary/mmsport/mentalfloss/01j9y56x9fkw70kph67e.jpg",
-            "publishedAt": "2024-10-16T11:59:00Z",
-            "content": "You probably know at least one Halloween Grinchthose folks who complain the candy is too expensive, the costumes too sexy, the doorbells too frequently pressed.\r\nNext time they grumble, just tell the\u2026 [+4663 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Vox"
-            },
-            "author": "Jonquilyn Hill",
-            "title": "I\u2019m Gen Z. \u200b\u200bHow can I save for retirement and still enjoy my life?",
-            "description": "Personal finance is hard no matter what stage of life you\u2019re in. But for Zoomers just entering the workforce, the challenges are also coupled with a lot of uncertainty. And that combination is what brought Carolina to us with her question on this week\u2019s episo\u2026",
-            "url": "https://www.vox.com/explain-it-to-me/377960/saving-retirement-gen-z-401k-advice",
-            "urlToImage": "https://platform.vox.com/wp-content/uploads/sites/2/2024/10/GettyImages-1359132050.jpg?quality=90&strip=all&crop=0%2C19.072808721402%2C100%2C61.854382557196&w=1200",
-            "publishedAt": "2024-10-16T10:21:30Z",
-            "content": "Personal finance is hard no matter what stage of life youre in. But for Zoomers just entering the workforce, the challenges are also coupled with a lot of uncertainty. And that combination is what br\u2026 [+6710 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Sage Anderson",
-            "title": "The 10 Best Trending Things To Buy At Sam\u2019s Club Right Now, According To Our Editors",
-            "description": "You can snag everything from Apple AirPods 4 to a powerful e-bike, all at an affordable price with a Sam's Club membership \u2014 here are our top picks",
-            "url": "http://www.rollingstone.com/product-recommendations/lifestyle/top-trending-products-sams-club-1235136669/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/10/Untitled-88.png?w=900&h=600&crop=1",
-            "publishedAt": "2024-10-17T23:41:36Z",
-            "content": "If you purchase an independently reviewed product or service through a link on our website, Rolling Stone may receive an affiliate commission.\r\nWe all know that a Sam\u2019s Club membership is worth it fo\u2026 [+6410 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rolling Stone"
-            },
-            "author": "Miles Klee",
-            "title": "X Looks to Steer Lawsuits to Musk\u2019s Favorite Tesla-Investor Judge",
-            "description": "X's updated Terms of Service stipulate that legal complaints against it must go through the right-wing Northern District of Texas",
-            "url": "http://www.rollingstone.com/culture/culture-features/elon-musk-twitter-x-lawsuit-tesla-judge-1235136514/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/10/Elon-2151277367.jpg?w=1600&h=900&crop=1",
-            "publishedAt": "2024-10-17T22:50:00Z",
-            "content": "By one major investor\u2019s estimate, Elon Musk\u2018s X Corp. \u2014 the social media business that most prolific users will probably never stop calling \u201cTwitter\u201d \u2014 has plummeted some 80 percent in value since th\u2026 [+5674 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Frandroid"
-            },
-            "author": "William Zimmer",
-            "title": "L\u2019iPad mini 7 utilise une puce A17 Pro moins puissante que celle des iPhone",
-            "description": "Apple vient de lever le voile sur la septi\u00e8me g\u00e9n\u00e9ration de l'iPad mini. Trois ans apr\u00e8s son pr\u00e9d\u00e9cesseur, cette nouvelle tablette conserve son design familier mais cache une surprise sous le capot : une version modifi\u00e9e de la puce A17 Pro.",
-            "url": "https://www.frandroid.com/marques/apple/2374374_lipad-mini-7-utilise-une-puce-a17-pro-moins-puissante-que-celle-des-iphone",
-            "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/10/ipad-mini-7.jpg",
-            "publishedAt": "2024-10-17T16:15:05Z",
-            "content": "Apple vient de lever le voile sur la septi\u00e8me g\u00e9n\u00e9ration de l\u2019iPad mini. Trois ans apr\u00e8s son pr\u00e9d\u00e9cesseur, cette nouvelle tablette conserve son design familier mais cache une surprise sous le capot :\u2026 [+2119 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Rocio Fabbro",
-            "title": "A key search deal between Apple and Google faces a big risk, analysts say",
-            "description": "The Department of Justice could block Google (GOOGL) from being the default search engine on Apple\u2019s (AAPL) iPhone as part of its antitrust victory against the tech giant.Read more...",
-            "url": "https://qz.com/apple-google-iphone-search-engine-deal-doj-lawsuit-1851674964",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/44510010ab81e1187da4ca1f8063f7c8.jpg",
-            "publishedAt": "2024-10-17T14:22:00Z",
-            "content": "In This Story\r\nThe Department of Justice could block Google (GOOGL) from being the default search engine on Apples (AAPL) iPhone as part of its antitrust victory against the tech giant.\r\nIn August, a\u2026 [+2136 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Rocio Fabbro",
-            "title": "A billionaire investor sold his Nvidia shares. It was a 'big mistake', he says",
-            "description": "Billionaire investor Stanley Druckenmiller admits he has made more than a few mistakes in his career. Selling his Nvidia (NVDA) shares earlier this year was one of them.Read more...",
-            "url": "https://qz.com/nvidia-stock-druckenmiller-investor-share-sale-1851674830",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/317bd0c6893d167d0f96c0b97b6881be.jpg",
-            "publishedAt": "2024-10-17T12:50:00Z",
-            "content": "In This Story\r\nBillionaire investor Stanley Druckenmiller admits he has made more than a few mistakes in his career. Selling his Nvidia (NVDA) shares earlier this year was one of them.\r\nIn an intervi\u2026 [+1742 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "Nvidia nears a new record as AI demand drives a big TSMC earnings beat",
-            "description": "Shares of Nvidia (NVDA) briefly reached a new intraday high on Thursday after its Taiwanese chipmaking partner beat earnings expectations.Read more...",
-            "url": "https://qz.com/nvidia-stock-record-ai-chip-demand-tsmc-earnings-1851675302",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/dba47d812d0deb41bcd8b7253938d8fe.jpg",
-            "publishedAt": "2024-10-17T18:03:00Z",
-            "content": "In This Story\r\nShares of Nvidia (NVDA+2.80%\r\n) briefly reached a new intraday high on Thursday after its Taiwanese chipmaking partner beat earnings expectations.\r\nThe chipmakers stock was up around 2\u2026 [+1922 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Quartz India"
-            },
-            "author": "Britney Nguyen",
-            "title": "TSMC reports earnings tomorrow. Here's what to expect",
-            "description": "Taiwan Semiconductor Manufacturing Company (TSM) (TSMC) is expected to beat revenue expectations for the third quarter when it reports quarterly earnings Thursday.Read more...",
-            "url": "https://qz.com/tsmc-report-earnings-what-expect-ai-chips-nvidia-apple-1851673310",
-            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d74d961a0482eba64381ea4ea17f12d3.jpg",
-            "publishedAt": "2024-10-16T09:00:00Z",
-            "content": "In This Story\r\nTaiwan Semiconductor Manufacturing Company (TSM) (TSMC) is expected to beat revenue expectations for the third quarter when it reports quarterly earnings Thursday.\r\nThe Taiwanese chipm\u2026 [+1507 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Subrat Patnaik",
-            "title": "Netflix\u2019s 340% Rally Seen Sputtering With Sales Growth Past Peak",
-            "description": "(Bloomberg) -- After a breakneck rally that added more than $230 billion in value, Wall Street is indicating that peak Netflix Inc. may have arrived.Most...",
-            "url": "https://finance.yahoo.com/news/netflix-340-rally-seen-sputtering-090232280.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-17T13:37:22Z",
-            "content": "(Bloomberg) -- After a breakneck rally that added more than $230 billion in value, Wall Street is indicating that peak Netflix Inc. may have arrived.\r\nMost Read from Bloomberg\r\nShares in the streamin\u2026 [+4504 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Ducttapemarketing.com"
-            },
-            "author": "John Jantsch",
-            "title": "The Secret to Building Customer Loyalty Forever",
-            "description": "The Secret to Building Customer Loyalty Forever written by John Jantsch read more at Duct Tape Marketing\nThe Duct Tape Marketing Podcast with Micah Solomon In this\u00a0Duct Tape Marketing Podcast episode, I interviewed Micah Solomon, an expert on customer service\u2026",
-            "url": "https://ducttapemarketing.com/build-customer-loyalty-forever-2/",
-            "urlToImage": "https://ducttapemarketing.com/wp-content/uploads/2024/10/Podcast-Blog-Headers-1-1.png",
-            "publishedAt": "2024-10-17T15:00:54Z",
-            "content": "Testimonial (00:00): I was like, I found it. I found it. This is what I've been looking for. I can honestly say it has genuinely changed the way I run my business. It's changed the results that I'm s\u2026 [+21325 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "jsor@businessinsider.com (Jennifer Sor)",
-            "title": "All eyes are on TSMC earnings as the chipmaker industry faces slowdown worries",
-            "description": "ASML slashed guidance on Tuesday, leading to a sell-off in chip stocks and raising the stakes for TSMC's upcoming earnings report.",
-            "url": "https://www.businessinsider.com/tsmc-stock-price-q3-earnings-chip-stocks-asml-nvidia-amd-2024-10",
-            "urlToImage": "https://i.insider.com/670ffea83f2165d716e216c3?width=1024&format=jpeg",
-            "publishedAt": "2024-10-16T19:05:15Z",
-            "content": "This week's sell-off in chip stocks and lingering questions about the demand for artificial intelligence tech has raised the stakes for Taiwan Semiconductor Manufacturing Company's coming earnings re\u2026 [+1609 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "insider@insider.com (Tyler Hayes)",
-            "title": "The best Bose soundbars of 2024",
-            "description": "The best Bose soundbars include a compact, entry-level model and two options with Dolby Atmos surround sound.",
-            "url": "https://www.businessinsider.com/guides/tech/best-bose-soundbars",
-            "urlToImage": "https://i.insider.com/6710165f6ac7b701e7cc9c6e?width=1200&format=jpeg",
-            "publishedAt": "2024-10-17T15:50:00Z",
-            "content": "When you buy through our links, Business Insider may earn an affiliate commission. Learn more\r\nBose has been a leader in the home audio space for decades and continues to offer fantastic all-in-one h\u2026 [+12942 chars]"
-        },
-        {
-            "source": {
-                "id": "espn",
-                "name": "ESPN"
-            },
-            "author": "Liz Loza",
-            "title": "Facts vs. Feelings: Starts, sits and chasing that familiar feeling in Week 7",
-            "description": "Some quarterback hope in New England, same old running back committee in Atlanta and other useful observations",
-            "url": "https://www.espn.com/fantasy/football/story/_/id/41830229/fantasy-football-week-7-start-sit-bench",
-            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1016%2Fr1401404_1296x729_16%2D9.jpg",
-            "publishedAt": "2024-10-16T17:22:43Z",
-            "content": "Fantasy football is a passion for many. Sometimes that passion pushes fantasy managers to make emotional decisions even when the data suggests otherwise. Each week during the 2024 NFL season, Liz Loz\u2026 [+13513 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Creative Bloq"
-            },
-            "author": "joe.foley@futurenet.com (Joe Foley)",
-            "title": "Adobe Max attendees are getting tired of the relentless focus on AI",
-            "description": "\"It\u2019s not a design conference anymore, it\u2019s an AI conference\".",
-            "url": "https://www.creativebloq.com/design/design-software/adobe-max-attendees-are-getting-tired-of-the-relentless-focus-on-ai",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/MVhvTGdzfcJ5FDrJjQACH4-1200-80.jpg",
-            "publishedAt": "2024-10-16T14:02:35Z",
-            "content": "Adobe Max 2024 comes to an end today, and some designers are wondering what it was that they just attended. As always, the creative software giant's annual creativity conference featured launches of \u2026 [+4821 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Derek Saul, Forbes Staff, \n Derek Saul, Forbes Staff\n https://www.forbes.com/sites/dereksaul/",
-            "title": "\u2018Just The Beginning\u2019 For AI Demand Surge As Big Chip Stocks Gain $250 Billion",
-            "description": "TSMC\u2019s induction to the trillion-dollar club also spurred a rally for its ally Nvidia, whose shares rose 4% to an all-time high.",
-            "url": "https://www.forbes.com/sites/dereksaul/2024/10/17/just-the-beginning-for-ai-demand-surge-as-big-chip-stocks-gain-250-billion/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67111e3872666f3c3e81c935/0x0.jpg?format=jpg&crop=1032,580,x0,y0,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-10-17T14:27:12Z",
-            "content": "Chip stocks rallied Thursday as the Taiwanese manufacturing partner for American artificial intelligence stalwart Nvidia reported blowout earnings, scoring a trillion-dollar valuation for the Asian f\u2026 [+2524 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Jason Kirsch, CFP(R), Contributor, \n Jason Kirsch, CFP(R), Contributor\n https://www.forbes.com/sites/investor-hub/people/Jason-Kirsch/",
-            "title": "What Are The Magnificent Seven Stocks?",
-            "description": "Discover the Magnificent Seven stocks\u2014top-performing tech giants driving the market. Learn who they are, why they're influential and their impact on investment strategies.",
-            "url": "https://www.forbes.com/sites/investor-hub/article/what-are-magnificent-seven-stocks/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67100ab9c2a9ca6b59c49227/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-10-16T19:37:25Z",
-            "content": "Getty Images/iStockphoto\r\nCertain companies have risen to prominence in the ever-evolving stock market landscape, capturing the attention of investors and analysts alike. Seven technology giants have\u2026 [+15532 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Megan Poinski, Forbes Staff, \n Megan Poinski, Forbes Staff\n https://www.forbes.com/sites/meganpoinski/",
-            "title": "How CIOs Can Maximize ROI On Enterprise AI Platforms",
-            "description": "The published version of Forbes\u2019 CIO newsletter delivers the latest news for chief innovation officers and other technology-focused leaders to inboxes every Thursday.",
-            "url": "https://www.forbes.com/sites/cio/2024/10/17/how-cios-can-maximize-roi-on-enterprise-ai-platforms/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/671135e8ed0a58e36bba04e2/0x0.jpg?format=jpg&crop=4348,2444,x0,y224,safe&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-10-17T16:08:27Z",
-            "content": "This is the published version of Forbes CIO newsletter, which offers the latest news for chief innovation officers and other technology-focused leaders. Click here to get it delivered to your inbox e\u2026 [+13378 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Derek Saul, Forbes Staff, \n Derek Saul, Forbes Staff\n https://www.forbes.com/sites/dereksaul/",
-            "title": "Kamala Harris Has More Billionaires Prominently Backing Her Than Trump\u2014Tyler Perry, Bill Ackman Weigh In (Update)",
-            "description": "The likes of Jeff Bezos and Bill Gates have shied away from offering endorsements like their ultrarich counterpart Elon Musk, but they have shared some thoughts about the two candidates.",
-            "url": "https://www.forbes.com/sites/dereksaul/2024/10/16/kamala-harris-has-more-billionaires-prominently-backing-her-than-trump-tyler-perry-bill-ackman-weigh-in-update/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67095c59ce26ec99f236e2eb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-10-16T13:55:01Z",
-            "content": "Forbes found at least 100 billionaires in the corners of either former President Donald Trump or Vice President Kamala Harriswith many more backing Harrisbut unlike the worlds richest man Elon Musk, \u2026 [+12758 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Forbes"
-            },
-            "author": "Phoebe Liu, Forbes Staff, \n Phoebe Liu, Forbes Staff\n https://www.forbes.com/sites/phoebeliu/",
-            "title": "The Billionaire Behind Groupon Is Making A Fortune In An Industry He Swore He\u2019d Never Enter",
-            "description": "After a quarter century as a serial entrepreneur, Eric Lefkofsky wants his latest unicorn, health tech firm Tempus AI, to be the \u201cenduring legacy\u201d of his career. Here\u2019s how he hopes it will dramatically change millions of patients\u2019 lives.",
-            "url": "https://www.forbes.com/sites/phoebeliu/2024/10/17/the-billionaire-behind-groupon-is-making-a-fortune-in-an-industry-he-swore-hed-never-enter/",
-            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66f5ba2eb66d3fb2d83d1fb0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-            "publishedAt": "2024-10-17T10:30:00Z",
-            "content": "Walking through health technology firm Tempus AIs midtown Manhattan office, Eric Lefkofsky brushes past stick-straight fronds of snake plants in neatly arranged planter boxes and employees chatting o\u2026 [+16846 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Cult of Mac"
-            },
-            "author": "Ed Hardy",
-            "title": "U.S. teens overwhelmingly choose iPhone",
-            "description": "The cool kids own an iPhone. And the non-cool kids. Really, nearly all U.S. teens own one, according to a long-running survey.\n(via Cult of Mac - Apple news, rumors, reviews and how-tos)",
-            "url": "https://www.cultofmac.com/news/teens-iphone-use-piper-sandler-survey",
-            "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2024/10/iPhone-16-in-Use.jpg",
-            "publishedAt": "2024-10-16T15:17:06Z",
-            "content": "The cool kids own an iPhone. And the non-cool kids. Really, nearly all U.S. teens own one. Thats according to new data from a market analysis that found that 87% of teenagers in the United States use\u2026 [+1884 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "[Removed]"
             },
             "author": null,
-            "title": "Warren Buffett's Berkshire Hathaway may have left $23 billion on the table by trimming Apple stock earlier this year",
-            "description": null,
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3ca126d6-23d2-4068-bf02-8ff8b6515dc7",
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
             "urlToImage": null,
-            "publishedAt": "2024-10-17T23:07:18Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+            "publishedAt": "2024-11-16T15:39:09Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Karen Friar",
-            "title": "Stock market today: Nasdaq futures jump as TSMC outlook eases AI worries",
-            "description": "A monthly report on retail sales could provide clues to whether the Fed will go for \"no cut\" at its next meeting.",
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-nasdaq-futures-jump-as-tsmc-outlook-eases-ai-worries-105447024.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-17T10:54:47Z",
-            "content": "Techs led US stock futures higher on Thursday as TSMC's (TSM) upbeat outlook eased worries about AI chip demand, with the next batch of earnings and retail sales data on deck.\r\nContracts on the tech-\u2026 [+1389 chars]"
+            "author": "LaToya Scott",
+            "title": "$99 Billion Bet: Warren Buffett Invests Heavily In 2 Stocks Expected To Jump 19% And 20%, Wall Street Analysts Predict",
+            "description": "Warren Buffett's investment strategy is a case study in bold and safe play. Nearly $99 billion is pegged on two iconic names: Apple and Coca-Cola. Through...",
+            "url": "https://finance.yahoo.com/news/99-billion-bet-warren-buffett-154533725.html",
+            "urlToImage": "https://media.zenfs.com/en/Benzinga/873bb660da4bc6f4f4b4caf989c55606",
+            "publishedAt": "2024-11-15T15:45:33Z",
+            "content": "$99 Billion Bet: Warren Buffett Invests Heavily In 2 Stocks Expected To Jump 19% And 20%, Wall Street Analysts Predict\r\nWarren Buffett's investment strategy is a case study in bold and safe play. Nea\u2026 [+3513 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Presse-citron"
             },
-            "author": "GuruFocus News",
-            "title": "State Street Corp's Strategic Reduction in PulteGroup Inc Holdings",
-            "description": "State Street Corp, a prominent financial services firm, recently adjusted its investment in PulteGroup Inc (NYSE:PHM), marking a significant transaction in...",
-            "url": "https://finance.yahoo.com/news/state-street-corps-strategic-reduction-190411617.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yvdJ35re9zPo8oyLV8cYVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzE-/https://media.zenfs.com/en/us.finance.gurufocus/c9e7acd58feb05d9de6b82d287d505ff",
-            "publishedAt": "2024-10-16T19:04:11Z",
-            "content": "State Street Corp, a prominent financial services firm, recently adjusted its investment in PulteGroup Inc (NYSE:PHM), marking a significant transaction in its portfolio. On September 30, 2024, the f\u2026 [+4299 chars]"
+            "author": "Presse-citron",
+            "title": "Black Friday\u00a0: Amazon retourne le web, 12 p\u00e9pites \u00e0 saisir d\u2019urgence",
+            "description": "Vous \u00eates d\u00e9j\u00e0 en qu\u00eate de bons plans pour vous faire plaisir, ou pour pr\u00e9parer vos cadeaux d'anniversaire ? D\u00e9couvrez ci-dessous la liste des bonnes affaires que nous avons d\u00e9j\u00e0 identifi\u00e9. Les premiers arriv\u00e9s seront les premiers servis !",
+            "url": "https://www.presse-citron.net/black-friday-amazon-retourne-le-web-12-pepites-a-saisir-durgence/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2023/11/blackfriday-offres.jpg",
+            "publishedAt": "2024-11-15T17:15:06Z",
+            "content": "Officiellement, le Black Friday se tiendra du 21 novembre au 2 d\u00e9cembre, qui sera aussi par ailleurs le Cyber Monday. Durant toute cette p\u00e9riode, les ogres du e-commerce comme Amazon, Cdiscount, AliE\u2026 [+4200 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Android Authority"
             },
-            "author": "GuruFocus News",
-            "title": "State Street Corp's Strategic Reduction in Avid Bioservices Inc Holdings",
-            "description": "On September 30, 2024, State Street Corp executed a significant transaction involving the shares of Avid Bioservices Inc (NASDAQ:CDMO), a key player in the...",
-            "url": "https://finance.yahoo.com/news/state-street-corps-strategic-reduction-190348501.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-17T19:03:48Z",
-            "content": "Overview of the Recent Transaction\r\nOn September 30, 2024, State Street Corp executed a significant transaction involving the shares of Avid Bioservices Inc (NASDAQ:CDMO), a key player in the biophar\u2026 [+4208 chars]"
+            "author": "Ryan Haines",
+            "title": "I took three phones to Europe, but only used my Fujifilm pocket camera",
+            "description": "Despite eight modern cameras in my pocket, it made perfect sense for me to keep using the one Fujifilm camera I'm truly comfortable with.",
+            "url": "https://www.androidauthority.com/fujifilm-x100v-vs-smartphone-cameras-3496148/",
+            "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/11/Fujifilm-X100V-hero.jpg",
+            "publishedAt": "2024-11-16T17:00:07Z",
+            "content": "Taking a vacation especially in my line of work is often easier said than done. Not because I have a particularly strict schedule or a demanding boss but because the constant stream of smartphone lau\u2026 [+10432 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Les Num\u00e9riques"
             },
-            "author": "GuruFocus News",
-            "title": "State Street Corp's Strategic Acquisition of Wolfspeed Inc Shares",
-            "description": "On September 30, 2024, State Street Corp made a significant addition to its investment portfolio by acquiring 1,255,819 shares of Wolfspeed Inc (NYSE:WOLF), ...",
-            "url": "https://finance.yahoo.com/news/state-street-corps-strategic-acquisition-170424854.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-17T17:04:24Z",
-            "content": "Overview of the Recent Transaction\r\nOn September 30, 2024, State Street Corp made a significant addition to its investment portfolio by acquiring 1,255,819 shares of Wolfspeed Inc (NYSE:WOLF), a key \u2026 [+4220 chars]"
+            "author": "Alexandre Scotti",
+            "title": "Actualit\u00e9 : Google Maps s\u2019am\u00e9liore avec 8\u00a0fonctionnalit\u00e9s taill\u00e9es pour les f\u00eates de fin d\u2019ann\u00e9e",
+            "description": "Avec les f\u00eates de fin d\u2019ann\u00e9e qui se profilent \u00e0 l\u2019horizon, Google a eu pour id\u00e9e de mettre en avant 8 fonctionnalit\u00e9s bien pratiques pour ses d\u00e9placements !",
+            "url": "https://www.lesnumeriques.com/gps/google-maps-s-ameliore-avec-8-fonctionnalites-taillees-pour-les-fetes-de-fin-d-annee-n228845.html",
+            "urlToImage": "https://cdn.lesnumeriques.com/optim/news/22/228845/dec01784-google-maps-s-ameliore-avec-8-fonctionnalites-taillees-pour-les-fetes-de-fin-d-annee__1200_678__319-0-1845-801.jpg",
+            "publishedAt": "2024-11-15T11:46:00Z",
+            "content": "Google Maps est un service en ligne et une application mobile gratuite de navigation GPS qui permet de cr\u00e9er des trajets (voiture, v\u00e9lo, transports en commun), enregistrer des cartes, trouver des poi\u2026 [+3596 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Quartz India"
             },
-            "author": "Reuters",
-            "title": "TSMC set to report strong profit driven by AI boom",
-            "description": "Taiwan Semiconductor Manufacturing Co, the dominant producer of advanced chips used in artificial intelligence applications, is expected to report a 42% leap...",
-            "url": "https://finance.yahoo.com/news/tsmc-set-report-strong-profit-220227281.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-16T22:02:27Z",
-            "content": "TAIPEI (Reuters) - Taiwan Semiconductor Manufacturing Co, the dominant producer of advanced chips used in artificial intelligence applications, is expected to report a 42% leap in third-quarter profi\u2026 [+2516 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "GuruFocus News",
-            "title": "State Street Corp's Strategic Acquisition in Cousins Properties Inc",
-            "description": "On September 30, 2024, State Street Corp made a significant addition to its investment portfolio by acquiring 48,668 shares of Cousins Properties Inc...",
-            "url": "https://finance.yahoo.com/news/state-street-corps-strategic-acquisition-190907438.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-17T19:09:07Z",
-            "content": "Overview of the Recent Transaction\r\nOn September 30, 2024, State Street Corp made a significant addition to its investment portfolio by acquiring 48,668 shares of Cousins Properties Inc (NYSE:CUZ), a\u2026 [+4536 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "GuruFocus News",
-            "title": "State Street Corp's Strategic Acquisition in Verve Therapeutics",
-            "description": "Overview of the Recent Transaction On September 30, 2024, State Street Corp made a significant addition to its investment portfolio by acquiring 903,809...",
-            "url": "https://finance.yahoo.com/news/state-street-corps-strategic-acquisition-210135530.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-16T21:01:35Z",
-            "content": "Overview of the Recent Transaction\r\nOn September 30, 2024, State Street Corp made a significant addition to its investment portfolio by acquiring 903,809 shares of Verve Therapeutics Inc (NASDAQ:VERV\u2026 [+4484 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Darian Woods",
-            "title": "Can the yield curve still predict recessions?",
-            "description": "Two years ago, the yield curve inverted. That means short-term interest rates on Treasury bonds were unusually higher than long-term interest rates. When that's happened in the past, a recession has come. In fact, the inverted yield curve has predicted every \u2026",
-            "url": "https://www.npr.org/2024/10/16/1211483980/can-the-yield-curve-still-predict-recessions",
-            "urlToImage": "https://media.npr.org/assets/img/2024/10/16/even-more-show-art-9-_wide-e8dd316fb816fdcafee897e794fafa0d7f6b0a4b.jpg?s=1400&c=100&f=jpeg",
-            "publishedAt": "2024-10-16T18:44:05Z",
-            "content": "The 'Fearless Girl' statue stands in front of the New York Stock Exchange.\r\nAngela Weiss/Getty Images\r\nTwo years ago, the yield curve inverted. That means short-term interest rates on Treasury bonds \u2026 [+609 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Erickimphotography.com"
-            },
-            "author": "ERIC KIM",
-            "title": "I want 50% of the upside but 5% of the downside",
-            "description": "Microstrategy > Blackrock You understand thedifference between having $16bn forever that you can leverage versus having $22bn that people can withdraw tomorrow. Massive, large digital capital base . Invest what you are personally excited enthusiastic about! Y\u2026",
-            "url": "https://erickimphotography.com/blog/2024/10/16/i-want-50-of-the-upside-but-5-of-the-downside/",
-            "urlToImage": null,
-            "publishedAt": "2024-10-16T16:38:03Z",
-            "content": "Microstrategy &gt; Blackrock\r\nYou understand thedifference between having $16bn forever that you can leverage versus having $22bn that people can withdraw tomorrow.\r\nMassive, large digital capital ba\u2026 [+2953 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Erickimphotography.com"
-            },
-            "author": "ERIC KIM",
-            "title": "Search sharpe ratio of Bitcoin vs sp500",
-            "description": "Here is a list comparing the Sharpe ratios of Bitcoin and top tech stocks as of 2024, reflecting their risk-adjusted returns: 1. Bitcoin: Sharpe ratio around 1.3, driven by high volatility and significant price momentum during bullish phases\u00a0 . 2. Tesla (TSLA\u2026",
-            "url": "https://erickimphotography.com/blog/2024/10/16/search-sharpe-ratio-of-bitcoin-vs-sp500/",
-            "urlToImage": null,
-            "publishedAt": "2024-10-16T11:57:14Z",
-            "content": "Here is a list comparing the Sharpe ratios of Bitcoin and top tech stocks as of 2024, reflecting their risk-adjusted returns:\r\n1. Bitcoin: Sharpe ratio around 1.3, driven by high volatility and signi\u2026 [+3418 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Reactormag.com"
-            },
-            "author": "Nancy Lambert",
-            "title": "Bright Hearts",
-            "description": "A florist becomes obsessed with the strange, haunting red flowers she buys from an equally strange old lady\u2026\nThe post Bright Hearts appeared first on Reactor.",
-            "url": "https://reactormag.com/bright-hearts-kaaron-warren/",
-            "urlToImage": "https://reactormag.com/wp-content/uploads/2024/10/Bright-Hearts_art-750ppx.jpeg",
-            "publishedAt": "2024-10-16T13:00:19Z",
-            "content": "A florist becomes obsessed with the strange, haunting red flowers she buys from an equally strange old lady\r\nI hadnt seen the old lady with her pram full of flowers for months. In A Bunch of Love, we\u2026 [+22588 chars]"
+            "author": "Rocio Fabbro",
+            "title": "Warren Buffett thinks pizza is more valuable than iPhones right now",
+            "description": "Warren Buffett\u2019s Berkshire Hathaway (BRK.A) acquired a stake in Domino\u2019s Pizza in the third quarter, even after dumping millions of dollars worth of Apple (AAPL) and Bank of America (BAC) to grow its cash pile.Read more...",
+            "url": "https://qz.com/berkshire-hathaway-buffett-apple-dominos-pizza-stock-1851700073",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ffba9e4e5342f1d1a8475f1117eabd2c.jpg",
+            "publishedAt": "2024-11-15T13:15:00Z",
+            "content": "In This Story\r\nWarren Buffetts Berkshire Hathaway (BRK.A-0.11%\r\n) acquired a stake in Dominos Pizza in the third quarter, even after dumping millions of dollars worth of Apple (AAPL+1.42%\r\n) and Bank\u2026 [+1965 chars]"
         },
         {
             "source": {
@@ -541,103 +86,220 @@
                 "name": "ZDNet"
             },
             "author": "Matthew Miller",
-            "title": "I tested Meta's limited edition Ray-Ban smart glasses, and they're a near-perfect wearable for me",
-            "description": "Meta released 7,500 pairs of transparent glasses, and I secured a pair that impressed me with its camera, Meta AI responses, and audio playback performance.",
-            "url": "https://www.zdnet.com/article/i-tested-metas-limited-edition-ray-ban-smart-glasses-and-theyre-a-near-perfect-wearable-for-me/",
+            "title": "I tested Meta's transparent Ray-Ban smart glasses, and they're a near-perfect accessory for me",
+            "description": "I managed to secure one of the 7,500 pairs of Ray-Bans that Meta recently sold, and they impressed me with their camera, Meta AI responses, and audio playback performance.",
+            "url": "https://www.zdnet.com/article/i-tested-metas-transparent-ray-ban-smart-glasses-and-theyre-a-near-perfect-accessory-for-me/",
             "urlToImage": "https://www.zdnet.com/a/img/resize/0c90685f9febb9386e2f2ff86d9bf90844905c83/2024/10/17/277dd35b-0534-404d-8209-63224130b10a/meta-wayfarer-le3.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-10-17T15:09:00Z",
-            "content": "Matthew Miller/ZDNET\r\nAt Meta Connect in September, one of the newest products that caught my eye was a limited-edition pair of Ray-Ban glasses -- with a transparent frame, sapphire transition lenses\u2026 [+4236 chars]"
+            "publishedAt": "2024-11-16T12:00:19Z",
+            "content": "Matthew Miller/ZDNET\r\nAt Meta Connect in September, one of the newest products that caught my eye was a limited-edition pair of Ray-Ban glasses -- with a transparent frame, sapphire transition lenses\u2026 [+4326 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Ewan Spence, Senior Contributor, \n Ewan Spence, Senior Contributor\n https://www.forbes.com/sites/ewanspence/",
+            "title": "Take Care With Black Friday\u2019s MacBook Pro Discounts",
+            "description": "As Black Friday approaches and bargains are on the rise, those looking for a new MacBook Pro or MacBook Air should take care...",
+            "url": "https://www.forbes.com/sites/ewanspence/2024/11/16/apple-macbook-pro-macbook-air-black-friday-warning-special-offers-discount/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63fe5bd29bdef696e53e59d7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-11-16T23:50:48Z",
+            "content": "Attendees take pictures of a display of newly redesigned MacBook Air (Photo by Justin Sullivan/Getty ... [+] Images)\r\nGetty Images\r\nAs Black Friday approaches, many in the Apple community will be loo\u2026 [+3359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Derek Saul, Forbes Staff, \n Derek Saul, Forbes Staff\n https://www.forbes.com/sites/dereksaul/",
+            "title": "Big Tech Stocks Suffer $500 Billion Selloff As \u2018Dangerously Bullish\u2019 Rally Loses Steam",
+            "description": "Both Amazon and Nvidia suffered more than $100 billion selloffs Friday.",
+            "url": "https://www.forbes.com/sites/dereksaul/2024/11/15/big-tech-stocks-suffer-500-billion-selloff-as-dangerously-bullish-rally-loses-steam/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67379e6de08cf58c715f8fef/0x0.jpg?format=jpg&crop=1350,760,x0,y140,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-11-15T19:29:41Z",
+            "content": "The Trump-inspired stock market rally dried up further as investors heeded concerns about more hawkish monetary policy, causing a major selloff in big technology stocks as indexes head to a losing we\u2026 [+3962 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Gadgeteer"
+            },
+            "author": "James Garriss",
+            "title": "Otterbox Defender Series Pro XT iPhone 16 Case review",
+            "description": "REVIEW \u2013 I recently purchased an iPhone 16 Pro Max, and the first thing that I always buy for a new phone is a new case.\u00a0 I typically go with simple cases, those that cover the back and sides, and I usually buy whatever is cheap on Amazon.\u00a0 Since this particu\u2026",
+            "url": "https://the-gadgeteer.com/2024/11/15/otterbox-defender-series-pro-xt-iphone-16-case-review/",
+            "urlToImage": "https://the-gadgeteer.com/wp-content/uploads/2024/11/otterbox-defender-pro-3.jpg",
+            "publishedAt": "2024-11-15T13:00:43Z",
+            "content": "If you buy something from a link in this article, we may earn a commission. Learn more\r\nREVIEW I recently purchased an iPhone 16 Pro Max, and the first thing that I always buy for a new phone is a ne\u2026 [+7518 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Yahoo Entertainment"
             },
-            "author": "Hamza Shaban",
-            "title": "The AI stock surge signals investors will be patient for profit: Morning Brief",
-            "description": "The intense demand for AI infrastructure flouts the worries over Big Tech's ballooning capex.",
-            "url": "https://finance.yahoo.com/news/the-ai-stock-surge-signals-investors-will-be-patient-for-profit-morning-brief-100500699.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-17T10:05:00Z",
-            "content": "This is The Takeaway from today's Morning Brief, which you can sign up to receive in your inbox every morning along with:\r\n<ul><li>The chart of the day\r\n</li><li>What we're watching\r\n</li><li>What we\u2026 [+2696 chars]"
+            "author": "Jared Blikre",
+            "title": "The Fed's biggest challenge has become the 'Sasquatch of the financial world'",
+            "description": "The \"neutral rate\" of interest is something most economists and Fed officials are convinced exists, but it has never been seen.",
+            "url": "https://finance.yahoo.com/news/the-feds-biggest-challenge-has-become-the-sasquatch-of-the-financial-world-164203122.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/5UIHgHlJ3cCYCaTII_SZnA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-11/91fe0f40-a2c8-11ef-baef-924e184daaac",
+            "publishedAt": "2024-11-16T16:42:03Z",
+            "content": "Listen and subscribe to Stocks in Translation on Apple Podcasts, Spotify, or wherever you find your favorite podcasts.\r\nStocks have surged since the election, while bonds are caught in a tug-of-war b\u2026 [+3389 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Macsparky.com"
             },
-            "author": "Reuters",
-            "title": "Morning Bid: TSMC steadies chip ship, ECB set to ease",
-            "description": "Tech-heavy stock markets are set to breathe a sigh of relief on Thursday as the world's largest chipmaker beat the street and eased gnawing doubts about...",
-            "url": "https://finance.yahoo.com/news/morning-bid-tsmc-steadies-chip-100306055.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-17T10:03:06Z",
-            "content": "A look at the day ahead in U.S. and global markets from Mike Dolan\r\nTech-heavy stock markets are set to breathe a sigh of relief on Thursday as the world's largest chipmaker beat the street and eased\u2026 [+5028 chars]"
+            "author": "David Sparks",
+            "title": "Home Screen: John Chandler",
+            "description": "Today I\u2019m featuring the home screen of web developer, swell guy, and my pal,\u00a0John Chandler. So John, show us your home screen. I am a spiritual director and a freelance WordPress developer. I originally did a home screen post almost 15 years ago. Some things \u2026",
+            "url": "https://www.macsparky.com/blog/2024/11/home-screen-john-chandler/",
+            "urlToImage": "https://www.macsparky.com/wp-content/uploads/2024/11/john-chandler-homescreen.png",
+            "publishedAt": "2024-11-15T08:00:34Z",
+            "content": "Today Im featuring the home screen of web developer, swell guy, and my pal,\u00a0John Chandler. So John, show us your home screen.\r\nI am a spiritual director and a freelance WordPress developer. I origina\u2026 [+4226 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "PhoneArena"
+                "name": "Sneaker News"
             },
-            "author": "Mariyan Slavov",
-            "title": "Xiaomi 14T Pro Review: Liquid Metal",
-            "description": "The Xiaomi 14T Pro is here to take on the big guys!",
-            "url": "https://www.phonearena.com/reviews/xiaomi-14t-pro-review_id6688",
-            "urlToImage": "https://m-cdn.phonearena.com/images/review/6688-wide-two_1200/Xiaomi-14T-Pro-Review-Liquid-Metal.jpg",
-            "publishedAt": "2024-10-16T13:58:27Z",
-            "content": "Remember the Xiaomi 14 Ultra? The ultra-premium Chinese flagship was more than deserving of its name, with a price tag at launch of 1,499 euros. The regular Xiaomi 14 didn't improve the price situati\u2026 [+10781 chars]"
+            "author": "Matt Varga",
+            "title": "Nike Adds Pink Mini Hearts To The Air Force 1 Low \u201cValentine\u2019s Day\u201d",
+            "description": "Nike always shows out for Valentine\u2019s Day. For the 2024 holiday, Beaverton unveiled well over a dozen new colorways, with our first looks at those...\n\n\u00a9 Sneaker News, 2024. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post Nike Adds Pink Mini Hearts To \u2026",
+            "url": "https://sneakernews.com/2024/11/15/nike-air-force-1-low-valentines-day-hv5992-111/",
+            "urlToImage": "https://sneakernews.com/wp-content/uploads/2024/11/nike-air-force-1-low-valentines-day-hv5992-111-9.jpg",
+            "publishedAt": "2024-11-15T20:00:34Z",
+            "content": "Nike always shows out for Valentine\u2019s Day. For the 2024 holiday, Beaverton unveiled well over a dozen new colorways, with our first looks at those pairs fittingly beginning to trickle in around Novem\u2026 [+1812 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "CMSWire"
             },
-            "author": "Karen Friar",
-            "title": "Stock market today: S&P 500, Nasdaq futures jump as TSMC outlook eases AI worries",
-            "description": "A monthly report on retail sales could provide clues to whether the Fed will go for \"no cut\" at its next meeting.",
-            "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-jump-as-tsmc-outlook-prompts-chip-stock-rally-133104012.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-17T10:54:47Z",
-            "content": "Techs led US stocks to record high levels on Thursday as TSMC's (TSM) upbeat outlook eased worries about AI chip demand, with the next batch of earnings on deck. Strong retail sales data also helped \u2026 [+5317 chars]"
+            "author": "pr@cmswire.com (Alex Kantrowitz)",
+            "title": "The AI Story Will Roll on in Trump\u2019s Second Term",
+            "description": "History often repeats itself, but the AI story is now too consequential to take a backseat again as Trump returns to the White House.\nContinue reading...",
+            "url": "https://www.cmswire.com/digital-experience/the-ai-story-will-roll-on-in-trumps-second-term/",
+            "urlToImage": "https://www.cmswire.com/-/media/f7f2d880d4904284a9869c9ae55eb6da.ashx",
+            "publishedAt": "2024-11-15T15:18:50Z",
+            "content": "The Gist\r\n<ul><li>AI's resurgence and political backdrop. AI, once sidelined during Trumps 2016 victory, is now too significant to take a backseat as politics evolve.</li><li>Trumps potential impact \u2026 [+5155 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "MarketWatch"
+                "name": "Maketecheasier.com"
             },
-            "author": "Steve Goldstein",
-            "title": "A French crypto whale backing Trump may be moving markets many times its size",
-            "description": "There\u2019s something funny going on in betting markets that seems to be leaking out into banking stocks, the dollar and Treasury yields.",
-            "url": "https://www.marketwatch.com/story/a-french-crypto-whale-backing-trump-may-be-moving-markets-many-times-that-size-ce6a35e3",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/km94dWIkHXPn3Jd8tWeiyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/90b209df8e47947b6caaed941a9efb25",
-            "publishedAt": "2024-10-17T12:37:00Z",
-            "content": "Legendary investor Stanley Druckenmiller, when he wasnt beating himself up for selling out of Nvidia too early, made an interesting observation in a Bloomberg Television interview: the market, partic\u2026 [+7079 chars]"
+            "author": "Crystal Crowder",
+            "title": "Am I The Only Person Not Using WhatsApp?",
+            "description": "As a tech writer, is it weird I'm not using WhatsApp? Find out why I'm not on board and what I use to stay in contact instead.",
+            "url": "https://www.maketecheasier.com/not-using-whatsapp/",
+            "urlToImage": "https://www.maketecheasier.com/assets/uploads/2024/11/am-i-the-only-one-not-using-whatsapp-featured.jpg",
+            "publishedAt": "2024-11-16T22:25:00Z",
+            "content": "I\u2019m finishing up a conversation with someone I\u2019ve just met, and they ask to add me on WhatsApp. I can\u2019t even begin to describe the surprise on their faces when I say I\u2019m not using WhatsApp. Am I the \u2026 [+5337 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ozbargain.com.au"
+            },
+            "author": "bleemo",
+            "title": "Samsung Galaxy Watch Ultra Titanium Grey: LTE $756.85 Delivered @ Amazon UK via AU",
+            "description": "From Amazon UK, at least 11 in stock I think.\n\nOnly titanium grey available at this price.",
+            "url": "https://www.ozbargain.com.au/node/877218",
+            "urlToImage": "https://files.ozbargain.com.au/n/18/877218l.jpg?h=263b2ff0",
+            "publishedAt": "2024-11-16T00:28:05Z",
+            "content": "I didnt expect to upset anybody! I really hadnt seen this product before and was surprised by the naming, the band, the orange button and everything. No shame in taking inspiration from competitors, \u2026 [+142 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Macdailynews.com"
+            },
+            "author": "MacDailyNews",
+            "title": "Warren Buffett\u2019s Berkshire Hathaway sells $23 billion in Apple shares in Q3",
+            "description": "Warren Buffett's Berkshire Hathaway again significantly reduced its holdings in Apple in the third quarter of 2024. The investment firm\u2026\nThe post Warren Buffett\u2019s Berkshire Hathaway sells $23 billion in Apple shares in Q3 appeared first on MacDailyNews.",
+            "url": "https://macdailynews.com/2024/11/15/warren-buffetts-berkshire-hathaway-sells-23-billion-in-apple-shares-in-q3/",
+            "urlToImage": "https://149359564.v2.pressablecdn.com/wp-content/uploads/2024/05/240506_warren_buffett.png",
+            "publishedAt": "2024-11-15T20:20:10Z",
+            "content": "Warren Buffett on May 4, 2024\r\nWarren Buffett\u2019s Berkshire Hathaway again significantly reduced its holdings in Apple in the third quarter of 2024. The investment firm sold 100 million shares of Apple\u2026 [+1609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Plos.org"
+            },
+            "author": "Renata Nayane Fernandes dos Santos, Tha\u00eds Souza Passos, Rafael da Silva Fernandes, K\u00e1tia Nicolau Matsui, Francisco Canind\u00e9 de Sousa J\u00fanior, Karla Suzanne Florentino da Silva Chaves Damasceno, Cristiane Fernandes de Assis",
+            "title": "Effect of nanoencapsulation on the solubility and antioxidant activity of astaxanthin pigmented oil extracted from shrimp waste (Litopeneaus vannamei)",
+            "description": "Astaxanthin-pigmented oil from shrimp waste meal was nanoencapsulated by O/W emulsification using porcine gelatin (EAG) and a combination with soy protein (EAGS 2:2 and EAGS 3:1) to improve the solubility and antioxidant activity of the pigmented oil. The enc\u2026",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313059",
+            "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0313059.g008&size=inline",
+            "publishedAt": "2024-11-15T14:00:00Z",
+            "content": "Abstract\r\nAstaxanthin-pigmented oil from shrimp waste meal was nanoencapsulated by O/W emulsification using porcine gelatin (EAG) and a combination with soy protein (EAGS 2:2 and EAGS 3:1) to improve\u2026 [+65424 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Graphicdesignjunction.com"
+            },
+            "author": "Muhammad Faisal",
+            "title": "10 Top Graphic Design Trends for 2025",
+            "description": "As 2024 wraps up, we\u2019re on the cusp of entering 2025, a year set to see the immense impact of AI across all computing fields, particularly in web and graphic design. With these advancements, the graphic design trends continues to evolve, driven by new technol\u2026",
+            "url": "https://graphicdesignjunction.com/2024/11/top-graphic-design-trends-for-2025/",
+            "urlToImage": "https://graphicdesignjunction.com/wp-content/uploads/2024/11/graphic_design_trends_2025.jpg",
+            "publishedAt": "2024-11-15T14:54:05Z",
+            "content": "As 2024 wraps up, were on the cusp of entering 2025, a year set to see the immense impact of AI across all computing fields, particularly in web and graphic design. With these advancements, the graph\u2026 [+40101 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "Investor's Business Daily"
             },
-            "author": "Investor's Business Daily",
-            "title": "This Top Trader Says Bull Market Is Strangest He's Seen In Years. Here's When To Get Aggressive.",
-            "description": "The bull market has continued to power through obstacles. Why this top trader says he's not getting aggressive just yet.",
-            "url": "https://www.investors.com/news/bull-market-top-trader-aggressive/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2018/07/stock-bull-charge-04-adobe.jpg",
-            "publishedAt": "2024-10-17T17:51:09Z",
-            "content": "Bull market volatility is alive and well.\r\nThe major indexes are consistently hitting new highs despite uncertainty and fear-filled headlines. Conflicts in the Middle East and Ukraine continue while \u2026 [+2648 chars]"
+            "author": "APARNA NARAYANAN, Investor's Business Daily",
+            "title": "Warren Buffett Bought And Sold These Stocks In Q3",
+            "description": "Changes in Berkshire Hathaway's stock portfolio are closely watched. Buffett tends to buy and hold.",
+            "url": "https://www.investors.com/news/warren-buffett-q3-2024-stock-buys-sells-berkshire-hathaway-13f/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/05/stock-Buffet-Warren-01-shutter.jpg",
+            "publishedAt": "2024-11-15T21:08:29Z",
+            "content": "Warren Buffett's Berkshire Hathaway (BRKB) bought Domino's Pizza (DPZ) and Pool Corp. (POOL) for the first time in the third quarter, while selling Apple (AAPL) and Bank of America (BAC). Pool stock \u2026 [+3016 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Investopedia"
             },
-            "author": "Reuters",
-            "title": "Futures rise as chip stocks rally after TSMC results; economic data in focus",
-            "description": "Profit at Taiwan Semiconductor Manufacturing Co, the world's largest contract chipmaker, beat market estimates and the company forecast a jump in fourth...",
-            "url": "https://finance.yahoo.com/news/futures-rise-chip-stocks-rally-095122295.html",
-            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
-            "publishedAt": "2024-10-17T09:51:22Z",
-            "content": "(Reuters) - U.S. stock index futures gained on Thursday, with an upbeat forecast from TSMC lifting semiconductor stocks, while investors awaited key economic data for clues on the financial health of\u2026 [+2521 chars]"
+            "author": "Terry Lane",
+            "title": "5 Things to Know Before the Stock Market Opens",
+            "description": "News of the day for Nov. 15, 2024",
+            "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-november-15-2024-8745948",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lYlrbu5P02z1p5NpSpV40A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/investopedia_245/644acb1cbee3bbeb876ffe820ca6bbb2",
+            "publishedAt": "2024-11-15T12:50:55Z",
+            "content": "News of the day for Nov. 15, 2024\r\nANGELA WEISS / AFP via Getty Images\r\nU.S. stock futures are lower to close a losing week following the post-election rally; shares of\u00a0Domino's Pizza (DPZ) and Pool \u2026 [+3095 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "ED CARSON, Investor's Business Daily",
+            "title": "Dow Jones Futures: Stock Market Falls, Tesla Skids On Trump EV Threat; Palantir Makes Big Move",
+            "description": "The Trump trade is waning after last week's huge gains. Here's what to do.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-tesla-skids-trump-ev-threat-palantir-nasdaq-listing/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/04/Stock-Musk-Trump-shutt.jpg",
+            "publishedAt": "2024-11-15T03:23:39Z",
+            "content": "Dow Jones futures fell modestly overnight, along with S&amp;P 500 futures and Nasdaq futures. Retail sales data is on tap Friday after two big inflation reports. Warren Buffett's Berkshire Hathaway (\u2026 [+8758 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Joseph Adinolfi",
+            "title": "Yes, stocks are crazy expensive right now. These 5 charts show just how extreme valuations have become.",
+            "description": "There\u2019s no getting around it: shares of America\u2019s largest companies are looking pretty expensive right now.",
+            "url": "https://www.marketwatch.com/story/yes-stocks-are-crazy-expensive-right-now-these-5-charts-show-just-how-extreme-valuations-have-become-9b51857f",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/q4FqHgNAqlAHHVt4tZxouA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDA-/https://media.zenfs.com/en/marketwatch_hosted_869/f6bde484a9a7b029943434488c119aec",
+            "publishedAt": "2024-11-16T12:00:00Z",
+            "content": "Theres no getting around it. Shares of Americas largest companies have been looking pretty expensive lately.The thinking holds whether looking at valuation metrics based on corporate earnings over th\u2026 [+7429 chars]"
         },
         {
             "source": {
@@ -645,64 +307,415 @@
                 "name": "9to5Toys"
             },
             "author": "Justin Kahn",
-            "title": "Here\u2019s another shot at landing $500 off the M3 Pro MacBook Pro with 18GB of RAM, more from $1,299",
-            "description": "Update: This deal is now back in-stock at Amazon, but it likely won\u2019t last for very long. \n\n\n\nToday we are featuring another chance for folks to score an M3 Pro MacBook Pro at a massive $500 off the price you would pay Apple. At this point, we all know the ne\u2026",
-            "url": "http://9to5toys.com/2024/10/16/m3-macbook-pro-18gb-of-ram/",
-            "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/06/M3-Pro-MacBook-Pro-1.jpg?resize=1200%2C628&ssl=1",
-            "publishedAt": "2024-10-16T15:06:00Z",
-            "content": "Update: This deal is now back in-stock at Amazon, but it likely wont last for very long. \r\nToday we are featuring another chance for folks to score an M3 Pro MacBook Pro at a massive $500 off the pri\u2026 [+1979 chars]"
+            "title": "Heads up! Apple Watch Series 10 is scheduled to be $100 off this Sunday (best price ever), here\u2019s what you need to know",
+            "description": "One of the hottest items on tap for Black Friday 2024 is the new Apple Watch Series 10 that just released back in September. Walmart got off to the races this year in its early Black Friday sale that went live last week (and is still live) with the lowest pri\u2026",
+            "url": "http://9to5toys.com/2024/11/15/best-black-friday-apple-watch-series-10-deals/",
+            "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/09/How-to-get-a-deal-on-Apple-Watch-Series-10.jpg?resize=1200%2C628&ssl=1",
+            "publishedAt": "2024-11-15T18:03:59Z",
+            "content": "One of the hottest items on tap for Black Friday 2024 is the new Apple Watch Series 10 that just released back in September. Walmart got off to the races this year in its early Black Friday sale that\u2026 [+3698 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNA"
+                "name": "9to5Toys"
             },
-            "author": null,
-            "title": "TSMC set to report strong profit driven by AI boom",
-            "description": "TAIPEI : Taiwan Semiconductor Manufacturing Co, the dominant producer of advanced chips used in artificial intelligence applications, is expected to report a 42 per cent leap in third-quarter profit on Thursday thanks to soaring demand.The world's largest con\u2026",
-            "url": "https://www.channelnewsasia.com/business/tsmc-set-report-strong-profit-driven-ai-boom-4683766",
-            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--HJYn1IQj--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-10-16t220227z_1_lynxmpek9f0v0_rtroptp_3_tsmc-results.jpg?itok=8zo1qUWA",
-            "publishedAt": "2024-10-16T22:02:27Z",
-            "content": "TAIPEI : Taiwan Semiconductor Manufacturing Co, the dominant producer of advanced chips used in artificial intelligence applications, is expected to report a 42 per cent leap in third-quarter profit \u2026 [+2476 chars]"
+            "author": "Justin Kahn",
+            "title": "Black Friday PSA: AirPods 4 are set to hit the best price ever tomorrow at $99, but there are some details you need to know",
+            "description": "Another popular item set to go on sale for Black Friday very soon is the new AirPods 4. While actual upcoming prices on Apple\u2019s latest AirPods releases have been mostly vague at this point in the Black Friday 2024 ads we have been tracking, we have spotted a \u2026",
+            "url": "http://9to5toys.com/2024/11/16/airpods-4-black-friday-best-price/",
+            "urlToImage": "https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2024/09/AirPods-4-trade-in-deals.jpg?resize=1200%2C628&ssl=1",
+            "publishedAt": "2024-11-16T13:40:40Z",
+            "content": "Another popular item set to go on sale for Black Friday very soon is the new AirPods 4. While actual upcoming prices on Apples latest AirPods releases have been mostly vague at this point in the Blac\u2026 [+4301 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNA"
+                "name": "Android Headlines"
             },
-            "author": null,
-            "title": "ASML warning shocks global chip investors",
-            "description": "AMSTERDAM : Investors and analysts are reviewing their assessments of computer chip equipment maker ASML, they said on Wednesday, after the company cut 2025 financial guidance, citing weakness in markets other than AI and delayed orders.The position of ASML, \u2026",
-            "url": "https://www.channelnewsasia.com/business/asml-warning-shocks-global-chip-investors-4682171",
-            "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--RQo6P4zi--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-10-16t085704z_1_lynxmpek9f0aj_rtroptp_3_asml-outlook.jpg?itok=HbhC0zdL",
-            "publishedAt": "2024-10-16T08:57:04Z",
-            "content": "AMSTERDAM : Investors and analysts are reviewing their assessments of computer chip equipment maker ASML, they said on Wednesday, after the company cut 2025 financial guidance, citing weakness in mar\u2026 [+2312 chars]"
+            "author": "Kristijan Lucic",
+            "title": "Phone Comparisons: Apple iPhone 16 Pro Max vs ASUS ZenFone 11 Ultra",
+            "description": "This is a comparison between Apple iPhone 16 Pro Max vs ASUS ZenFone 11 Ultra. Two of the best phones from Apple and ASUS.",
+            "url": "https://www.androidheadlines.com/phone-comparisons-apple-iphone-16-pro-max-vs-asus-zenfone-11-ultra",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2024/11/Apple-iPhone-16-Pro-Max-vs-ASUS-ZenFone-11-Ultra-comparison.jpg",
+            "publishedAt": "2024-11-15T01:00:43Z",
+            "content": "In this article, well be comparing the best phones Apple and ASUS have to offer at the moment. Its a comparison between the Apple iPhone 16 Pro Max vs ASUS ZenFone 11 Ultra. ASUS handset was announce\u2026 [+9895 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Electrek"
+                "name": "Movilzona.es"
             },
-            "author": "Reinette LeJeune",
-            "title": "New exclusive Anker C300 DC 90,000mAh power station $148 low, Samsung Bespoke all-in-one washer/dryer $1,000+ off, more",
-            "description": "Leading today\u2019s Green Deals is an exclusive discount on Anker\u2019s latest SOLIX C300 DC 90,000mAh/288Wh Portable Power Station that drops costs to a new $148 low price while also giving you some free gear. Next, we spotted Samsung\u2019s AI-supported Bespoke All-in-O\u2026",
-            "url": "http://electrek.co/2024/10/17/exclusive-anker-c300-dc-power-station-samsung-bespoke-washer-dryer-more/",
-            "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/08/Anker-SOLIX-C300-DC-90000mAh-power-station-2.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
-            "publishedAt": "2024-10-17T18:00:00Z",
-            "content": "Leading today\u2019s Green Deals is an exclusive discount on Anker\u2019s latest SOLIX C300 DC 90,000mAh/288Wh Portable Power Station that drops costs to a new $148 low price while also giving you some free ge\u2026 [+12381 chars]"
+            "author": "Ricardo Fern\u00e1ndez",
+            "title": "Oferta flash por el nuevo iPhone 16: ahorra m\u00e1s de 100 euros por tiempo limitado",
+            "description": "El nuevo iPhone 16 est\u00e1 m\u00e1s barato que nunca con este descuento flash por motivo del Black Friday en Miravia. Ahorra m\u00e1s de 100 euros por el \u00faltimo lanzamiento de Apple y renueva tu viejo iPhone antes de que se quede sin actualizaciones. Con la nueva versi\u00f3n \u2026",
+            "url": "https://www.movilzona.es/noticias/ofertas/miravia-movil-apple-iphone-16-1124/",
+            "urlToImage": "https://www.movilzona.es/app/uploads-movilzona.es/2024/11/oferta-iphone-16.jpg",
+            "publishedAt": "2024-11-15T18:28:55Z",
+            "content": "Todos sabemos que comprar un iPhone es una apuesta segura, aunque no todos est\u00e1n dispuestos a gastar lo que vale. El precio de la versi\u00f3n est\u00e1ndar del iPhone 16 con 128 GB es de 959 euros y muchos es\u2026 [+3101 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "iPhone in Canada"
             },
-            "author": "Steve Vegvari",
-            "title": "Apple Expands its Business Connect Feature With New Tools Like Mail and Wallet",
-            "description": "Apple announced that it's expanding the Business Connect feature with new tools across Mail, Wallet, Phone, and Maps.\nThe post Apple Expands its Business Connect Feature With New Tools Like Mail and Wallet first appeared on iPhone in Canada Blog.",
-            "url": "https://www.iphoneincanada.ca/2024/10/17/apple-expands-its-business-connect-feature-with-new-tools-like-mail-and-wallet/",
+            "author": "Usman Qureshi",
+            "title": "New \u2018Plates\u2019 Ad Celebrates 10 Years of Apple Pay [VIDEO]",
+            "description": "Apple is marking a decade of Apple Pay with the release of a new ad titled Plates, highlighting its simplicity and speed for online purchases.\nThe post New \u2018Plates\u2019 Ad Celebrates 10 Years of Apple Pay [VIDEO] first appeared on iPhone in Canada Blog.",
+            "url": "https://www.iphoneincanada.ca/2024/11/15/new-apple-pay-ad-plates-celebrates-10-years/",
             "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2017/09/iic-logo-1.svg",
-            "publishedAt": "2024-10-17T11:31:53Z",
-            "content": "This week, Apple announced that it\u2019s expanding the Business Connect feature. From now on, verified businesses can create branding and a location presence across core apps like Mail, Wallet, Phone, an\u2026 [+1470 chars]"
+            "publishedAt": "2024-11-15T18:51:16Z",
+            "content": "Apple is marking a decade of Apple Pay with the release of a new advertisement titled Plates,\u2019 highlighting the platform\u2019s simplicity and speed for online purchases.\r\nSince its introduction, Apple Pa\u2026 [+898 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Monique Mulima, Bloomberg",
+            "title": "MicroStrategy\u2019s $26 billion Bitcoin cache is larger than IBM, Nike cash holdings",
+            "description": "Only about a dozen companies, led by Apple Inc. and Alphabet Inc., hold more assets in their corporate treasuries.",
+            "url": "https://fortune.com/crypto/2024/11/16/microstrategy-26-billion-bitcoin-cryptocurrency-cache-ibm-nike-cash-holdings/",
+            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/11/GettyImages-1491618380-e1731776724965.jpg?resize=1200,600",
+            "publishedAt": "2024-11-16T17:16:52Z",
+            "content": "Michael Saylors unorthodox decision to hold Bitcoin instead of cash on MicroStrategy Inc.s books has vaulted the once obscure software maker into the upper echelon of the wealthiest corporations when\u2026 [+3567 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.nzz.ch"
+            },
+            "author": "Andr\u00e9 M\u00fcller (am\u00fc)",
+            "title": "FBI beschlagnahmt Handy von Shayne Coplan\u00a0\u2013 der Gr\u00fcnder der\u00a0umstrittenen Krypto-Wettplattform\u00a0Polymarket ist schon wieder im Visier der US-Beh\u00f6rden",
+            "description": "Shayne Coplan sieht in den Ermittlungen eine Retourkutsche der Demokraten, weil Polymarket-Nutzer fr\u00fch auf einen Sieg von Donald Trump setzten.",
+            "url": "https://www.nzz.ch/wirtschaft/krypto-wettboerse-polymarket-fbi-durchsucht-wohnung-von-gruender-shayne-coplan-ld.1857539",
+            "urlToImage": "https://img.nzz.ch/2024/11/15/81b25483-c1fc-4c24-8b11-cdd1e3801aa6.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6159,3465,x435,y358&wmark=nzz",
+            "publishedAt": "2024-11-16T04:30:00Z",
+            "content": "Nutzer des Prognosemarkts Polymarket haben fr\u00fch auf einen Sieg von US-Pr\u00e4sident Donald Trump gewettet.\r\nAm Mittwochmorgen Lokalzeit haben Ermittler des FBI die New Yorker Wohnung des Polymarket-Gr\u00fcnd\u2026 [+5586 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizchina.com"
+            },
+            "author": "Abdullah Mustapha",
+            "title": "Indian Smartphone market: Apple Shipped 4 Million Units in Q3 2024",
+            "description": "The Indian smartphone market has achieved significant growth for the fifth consecutive quarter, with shipments reaching 46 million units in Q3 2024. This marks a ...\nThe post Indian Smartphone market: Apple Shipped 4 Million Units in Q3 2024 appeared first on\u2026",
+            "url": "https://www.gizchina.com/2024/11/15/indian-smartphone-market-apple-shipped-4-million-units-in-q3-2024/",
+            "urlToImage": "https://www.gizchina.com/wp-content/uploads/images/2022/01/smartphone.jpg",
+            "publishedAt": "2024-11-15T08:54:30Z",
+            "content": "The Indian smartphone market has achieved significant growth for the fifth consecutive quarter, with shipments reaching 46 million units in Q3 2024. This marks a 5.6% year-over-year increase, accordi\u2026 [+4376 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Iphoneaddict.fr"
+            },
+            "author": "Jean-Baptiste A.",
+            "title": "Apple consid\u00e8re les iPhone XS Max et 6s Plus comme \u00ab\u00a0anciens\u00a0\u00bb",
+            "description": "Apple annonce que les iPhone XS Max et iPhone 6s Plus ont d\u00e9sormais le statut de \u00ab produits anciens \u00bb. Cela a un impact sur les r\u00e9parations des smartphones, tout particuli\u00e8rement chez Apple. Il y a deux statuts chez Apple\u00a0: produits anciens et produits obsol\u00e8\u2026",
+            "url": "https://iphoneaddict.fr/post/news-397176-apple-considere-iphone-xs-max-6s-plus-anciens",
+            "urlToImage": "https://static.iphoneaddict.fr/wp-content/uploads/2018/09/iPhone-XS-Max-Avant-Ecran-Apres-Keynote.jpg",
+            "publishedAt": "2024-11-15T16:23:20Z",
+            "content": "Apple annonce que les iPhone XS Max et iPhone 6s Plus ont d\u00e9sormais le statut de \u00ab produits anciens \u00bb. Cela a un impact sur les r\u00e9parations des smartphones, tout particuli\u00e8rement chez Apple.\r\nIl y a \u2026 [+1214 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SiliconANGLE News"
+            },
+            "author": "Dave Vellante",
+            "title": "Dave Vellante\u2019s Breaking Analysis: The complete collection",
+            "description": "Breaking Analysis is a weekly editorial program combining knowledge from SiliconANGLE\u2019s\u00a0theCUBE\u00a0with spending data from\u00a0Enterprise Technology Research. Branded as\u00a0theCUBE Insights, Powered by ETR, the program is our opportunity to share independent, unfiltere\u2026",
+            "url": "https://siliconangle.com/2024/11/15/dave-vellantes-breaking-analysis-complete-collection/",
+            "urlToImage": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/09/dave-breaking-analysis.png",
+            "publishedAt": "2024-11-15T11:33:12Z",
+            "content": "Breaking Analysis is a weekly editorial program combining knowledge from SiliconANGLEs\u00a0theCUBE\u00a0with spending data from\u00a0Enterprise Technology Research.\r\nBranded as\u00a0theCUBE Insights, Powered by ETR, th\u2026 [+182839 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thedividendguyblog.com"
+            },
+            "author": "DivGuy",
+            "title": "More Thoughts on the Smith Manoeuvre \u2013 October Dividend Income Report",
+            "description": "In 2016, I made a life-changing decision: I took a sabbatical, put my family in a small RV, and drove to Costa Rica. Upon my return in 2017, I officially quit my job as a private banker at National Bank and started working full-time on my baby: Dividend Stock\u2026",
+            "url": "https://thedividendguyblog.com/more-thoughts-on-the-smith-manoeuvre/",
+            "urlToImage": "https://thedividendguyblog.com/wp-content/themes/leia-en/imagenes/2024/11/more-thoughts-on-the-smith-manoeuvre.png",
+            "publishedAt": "2024-11-15T10:32:16Z",
+            "content": "In 2016, I made a life-changing decision: I took a sabbatical, put my family in a small RV, and drove to Costa Rica.\r\nUpon my return in 2017, I officially quit my job as a private banker at National \u2026 [+21491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Miska Salemann",
+            "title": "Get cozy with an exclusive Black Friday deal: Snag 35% off Cozy Earth favorites",
+            "description": "Post readers will be sleeping better than ever thanks to this exclusive sale.",
+            "url": "https://nypost.com/shopping/cozy-earth-black-friday-cyber-monday-deals-sale-2024/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/11/cozy_b7f0a1.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-11-15T22:33:33Z",
+            "content": "New York Post may be compensated and/or receive an affiliate commission if you buy through our links. Featured pricing is subject to change.\r\nHey, Post readers have you been looking for the perfect e\u2026 [+7944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Faz.net"
+            },
+            "author": "Sarah Speicher-Utsch",
+            "title": "B\u00f6rsenwoche: Mehr als Apple und Tesla",
+            "description": "In den USA sind die sieben gigantischen KI-Werte die B\u00f6rsenstars. Bildeten sie einen Index, w\u00e4re das der gr\u00f6\u00dfte Aktienmarkt der Welt. Braucht es da noch mehr?",
+            "url": "https://www.faz.net/aktuell/finanzen/mehr-als-apple-und-tesla-110113868.html",
+            "urlToImage": "https://media0.faz.net/ppmedia/aktuell/finanzen/4054319630/1.10113866/facebook_teaser/boersenwoche.jpg",
+            "publishedAt": "2024-11-15T13:52:16Z",
+            "content": "Die Frankfurter Privatbank Metzler setzt auf K\u00fcnstliche Intelligenz (KI) und hat f\u00fcnf der sieben US-B\u00f6rsenlieblinge im Portfolio ihrer verm\u00f6genden Kundschaft, wenngleich in einer anderen Gewichtung a\u2026 [+5110 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmohamed@insider.com (Theron Mohamed)",
+            "title": "Warren Buffett's Berkshire Hathaway reveals new bets on Domino's Pizza and Pool Corp.",
+            "description": "Warren Buffett's Berkshire Hathaway took a bite of Domino's Pizza and waded into the swimming pool business even as it pared several much larger bets.",
+            "url": "https://www.businessinsider.com/warren-buffett-berkshire-hathaway-dominos-pizza-pool-corp-stock-portfolio-2024-11",
+            "urlToImage": "https://i.insider.com/6736231a192f5258985886e2?width=1200&format=jpeg",
+            "publishedAt": "2024-11-15T00:00:53Z",
+            "content": "Warren Buffett's Berkshire Hathaway took a bite of the pizza business and jumped into the swimming pool industry last quarter.\r\nThe famed investor's conglomerate bought a slice of Domino's Pizza wort\u2026 [+1969 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "How To Earn $500 A Month From Apple Stock",
+            "description": "Apple Inc. (NASDAQ:AAPL) shares closed higher on Thursday despite an overall decline in the stock market.\nConsumer group Which? has filed a \u00a33 billion ($3.81 billion) legal claim against Apple, accusing the tech giant of breaching UK competition law through i\u2026",
+            "url": "https://biztoc.com/x/43f259df05cdf5cd",
+            "urlToImage": "https://biztoc.com/cdn/43f259df05cdf5cd_s.webp",
+            "publishedAt": "2024-11-15T17:20:31Z",
+            "content": "Apple Inc. (NASDAQ:AAPL) shares closed higher on Thursday despite an overall decline in the stock market.Consumer group Which? has filed a \u00a33 billion ($3.81 billion) legal claim against Apple, accusi\u2026 [+143 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) is Sunbelt Securities Inc.\u2019s 3rd Largest Position",
+            "description": "Sunbelt Securities Inc. grew its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% during the second quarter, according to the company in its most recent filing with the Securities and Exchange Commission. The firm owned 111,167 shares of the iPhone \u2026",
+            "url": "https://www.etfdailynews.com/2024/11/16/apple-inc-nasdaqaapl-is-sunbelt-securities-inc-s-3rd-largest-position/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-16T08:07:03Z",
+            "content": "Sunbelt Securities Inc. grew its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% during the second quarter, according to the company in its most recent filing with the Securities and Excha\u2026 [+6545 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Wallace Capital Management Inc. Sells 450 Shares of Apple Inc. (NASDAQ:AAPL)",
+            "description": "Wallace Capital Management Inc. lessened its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.6% in the second quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission. The fund owned 12,021 shares of the\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/16/wallace-capital-management-inc-sells-450-shares-of-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-16T08:07:08Z",
+            "content": "Wallace Capital Management Inc. lessened its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.6% in the second quarter, according to the company in its most recent 13F filing with the Securities \u2026 [+6101 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Garde Capital Inc.",
+            "description": "Garde Capital Inc. cut its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.1% during the 2nd quarter, according to its most recent Form 13F filing with the SEC. The fund owned 112,746 shares of the iPhone maker\u2019s stock after selling 2,421 shares during t\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/16/apple-inc-nasdaqaapl-shares-sold-by-garde-capital-inc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-16T08:07:08Z",
+            "content": "Garde Capital Inc. cut its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.1% during the 2nd quarter, according to its most recent Form 13F filing with the SEC. The fund owned 112,746 shares of \u2026 [+6146 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Quarry LP",
+            "description": "Quarry LP lessened its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 99.7% in the 2nd quarter, HoldingsChannel reports. The institutional investor owned 265 shares of the iPhone maker\u2019s stock after selling 100,029 shares during the period. Q\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/16/apple-inc-nasdaqaapl-shares-sold-by-quarry-lp/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-16T08:07:06Z",
+            "content": "Quarry LP lessened its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 99.7% in the 2nd quarter, HoldingsChannel reports. The institutional investor owned 265 shares of the iPhone mak\u2026 [+6070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Will Nvidia Be a $5 Trillion Stock by 2028?",
+            "description": "Nvidia (NASDAQ: NVDA) recently overtook Apple to become the world's largest company in terms of market cap. The chipmaker's rise to the top position is justified thanks to the impressive growth it delivers quarter after quarter on the back of the robust deman\u2026",
+            "url": "https://biztoc.com/x/1608ce23e2654162",
+            "urlToImage": "https://biztoc.com/cdn/1608ce23e2654162_s.webp",
+            "publishedAt": "2024-11-15T11:24:19Z",
+            "content": "Nvidia (NASDAQ: NVDA) recently overtook Apple to become the world's largest company in terms of market cap. The chipmaker's rise to the top position is justified thanks to the impressive growth it de\u2026 [+149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "investopedia.com",
+            "title": "Buffett's Berkshire Buys Shares of Domino's Pizza and Pool Corp., Dumps Apple Stock",
+            "description": "Warren Buffett's Berkshire Hathaway (BRK.A; BRK.B) took stakes in Domino's Pizza (DPZ) and swimming pool supplier Pool Corp. (POOL) in the third quarter while continuing to trim stakes in longtime holdings Apple (AAPL) and Bank of America (BAC).\nThe moves wer\u2026",
+            "url": "https://biztoc.com/x/a9274e00f6d1693a",
+            "urlToImage": "https://biztoc.com/cdn/a9274e00f6d1693a_s.webp",
+            "publishedAt": "2024-11-15T02:25:49Z",
+            "content": "Warren Buffett's Berkshire Hathaway (BRK.A; BRK.B) took stakes in Domino's Pizza (DPZ) and swimming pool supplier Pool Corp. (POOL) in the third quarter while continuing to trim stakes in longtime ho\u2026 [+149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Acquired by B. Riley Wealth Advisors Inc.",
+            "description": "B. Riley Wealth Advisors Inc. boosted its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 20.9% in the 2nd quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission. The institutional investor \u2026",
+            "url": "https://www.etfdailynews.com/2024/11/16/apple-inc-nasdaqaapl-shares-acquired-by-b-riley-wealth-advisors-inc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-16T08:07:04Z",
+            "content": "B. Riley Wealth Advisors Inc. boosted its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 20.9% in the 2nd quarter, according to the company in its most recent 13F filing with the Sec\u2026 [+6675 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Covington Investment Advisors Inc. Sells 7,030 Shares of Apple Inc. (NASDAQ:AAPL)",
+            "description": "Covington Investment Advisors Inc. cut its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 4.9% in the second quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The institutional \u2026",
+            "url": "https://www.etfdailynews.com/2024/11/16/covington-investment-advisors-inc-sells-7030-shares-of-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-16T08:07:04Z",
+            "content": "Covington Investment Advisors Inc. cut its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 4.9% in the second quarter, according to the company in its most recent disclosure with the \u2026 [+6193 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Prediction: This Warren Buffett Stock Will Outperform the Market Through 2030",
+            "description": "What is Warren Buffett's favorite stock? Other than the company he chairs, Apple (NASDAQ: AAPL) may well be at the top of that list. The iPhone maker has been one of Buffett's largest holdings for years, even as he has decreased his stake in the tech company \u2026",
+            "url": "https://biztoc.com/x/3cb3dae62d14941f",
+            "urlToImage": "https://biztoc.com/cdn/3cb3dae62d14941f_s.webp",
+            "publishedAt": "2024-11-16T10:36:19Z",
+            "content": "What is Warren Buffett's favorite stock? Other than the company he chairs, Apple (NASDAQ: AAPL) may well be at the top of that list. The iPhone maker has been one of Buffett's largest holdings for ye\u2026 [+136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Sen. Tommy Tuberville Sells McDonald\u2019s Co. (NYSE:MCD) Shares",
+            "description": "Senator Tommy Tuberville (R-Alabama) recently sold shares of McDonald\u2019s Co. (NYSE:MCD). In a filing disclosed on November 15th, the Senator disclosed that they had sold between $15,001 and $50,000 in McDonald\u2019s stock on October 29th. Senator Tommy Tuberville \u2026",
+            "url": "https://www.etfdailynews.com/2024/11/16/sen-tommy-tuberville-sells-mcdonalds-co-nysemcd-shares/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/mcdonalds-co-logo-1200x675.png?v=20221020143434&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-16T08:11:00Z",
+            "content": "Senator Tommy Tuberville (R-Alabama) recently sold shares of McDonald\u2019s Co. (NYSE:MCD). In a filing disclosed on November 15th, the Senator disclosed that they had sold between $15,001 and $50,000 in\u2026 [+8228 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Venturi Wealth Management LLC Acquires 1,327 Shares of Jamf Holding Corp. (NASDAQ:JAMF)",
+            "description": "Venturi Wealth Management LLC grew its holdings in Jamf Holding Corp. (NASDAQ:JAMF \u2013 Free Report) by 57.1% during the third quarter, Holdings Channel.com reports. The firm owned 3,653 shares of the company\u2019s stock after acquiring an additional 1,327 shares du\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/16/venturi-wealth-management-llc-acquires-1327-shares-of-jamf-holding-corp-nasdaqjamf/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/jamf-holding-corp-logo-1200x675.jpg?v=20210329150505&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-16T10:08:15Z",
+            "content": "Venturi Wealth Management LLC grew its holdings in Jamf Holding Corp. (NASDAQ:JAMF \u2013 Free Report) by 57.1% during the third quarter, Holdings Channel.com reports. The firm owned 3,653 shares of the c\u2026 [+4716 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Tesla (NASDAQ:TSLA) Stock Acquired Rep. Morgan McGarvey",
+            "description": "Representative Morgan McGarvey (D-Kentucky) recently bought shares of Tesla, Inc. (NASDAQ:TSLA). In a filing disclosed on November 13th, the Representative disclosed that they had bought between $1,001 and $15,000 in Tesla stock on October 25th. The trade occ\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/16/tesla-nasdaqtsla-stock-acquired-rep-morgan-mcgarvey/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/tesla-inc-logo-1200x675.png?v=20221020135629&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-16T10:24:53Z",
+            "content": "Representative Morgan McGarvey (D-Kentucky) recently bought shares of Tesla, Inc. (NASDAQ:TSLA). In a filing disclosed on November 13th, the Representative disclosed that they had bought between $1,0\u2026 [+7147 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Meet the Stock-Split Stock That Soared by 11,210% Over the Past 15 Years. Now, It's Poised to Join Nvidia, Apple, Microsoft, Amazon, Alphabet, Meta, and Tesla in the $1 Trillion Club by 2026",
+            "description": "Technological advances over the past 20 years have been nothing short of profound, and nowhere is that progress more evident than in the sizes of the world's largest companies. Two decades ago, General Electric and ExxonMobil were the world's largest companie\u2026",
+            "url": "https://biztoc.com/x/485d487bba46ade5",
+            "urlToImage": "https://biztoc.com/cdn/485d487bba46ade5_s.webp",
+            "publishedAt": "2024-11-16T10:35:53Z",
+            "content": "Technological advances over the past 20 years have been nothing short of profound, and nowhere is that progress more evident than in the sizes of the world's largest companies. Two decades ago, Gener\u2026 [+148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "State of New Jersey Common Pension Fund D Has $2.05 Million Stock Position in Hyatt Hotels Co. (NYSE:H)",
+            "description": "State of New Jersey Common Pension Fund D lessened its stake in Hyatt Hotels Co. (NYSE:H \u2013 Free Report) by 9.3% in the third quarter, HoldingsChannel reports. The firm owned 13,486 shares of the company\u2019s stock after selling 1,381 shares during the period. St\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/16/state-of-new-jersey-common-pension-fund-d-has-2-05-million-stock-position-in-hyatt-hotels-co-nyseh/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/hyatt-hotels-co-logo-1200x675.png?v=20221109133308&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-16T08:52:56Z",
+            "content": "State of New Jersey Common Pension Fund D lessened its stake in Hyatt Hotels Co. (NYSE:H \u2013 Free Report) by 9.3% in the third quarter, HoldingsChannel reports. The firm owned 13,486 shares of the comp\u2026 [+5340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Sen. Tommy Tuberville Sells Off Shares of Kimberly-Clark Co. (NYSE:KMB)",
+            "description": "Senator Tommy Tuberville (R-Alabama) recently sold shares of Kimberly-Clark Co. (NYSE:KMB). In a filing disclosed on November 15th, the Senator disclosed that they had sold between $15,001 and $50,000 in Kimberly-Clark stock on October 29th. Senator Tommy Tub\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/16/sen-tommy-tuberville-sells-off-shares-of-kimberly-clark-co-nysekmb/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/kimberly-clark-co-logo-1200x675.jpg?v=20221024144613&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-16T08:11:00Z",
+            "content": "Senator Tommy Tuberville (R-Alabama) recently sold shares of Kimberly-Clark Co. (NYSE:KMB). In a filing disclosed on November 15th, the Senator disclosed that they had sold between $15,001 and $50,00\u2026 [+7047 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Reviewing Covalon Technologies (OTCMKTS:CVALF) & Talkspace (NASDAQ:TALK)",
+            "description": "Covalon Technologies (OTCMKTS:CVALF \u2013 Get Free Report) and Talkspace (NASDAQ:TALK \u2013 Get Free Report) are both small-cap medical companies, but which is the better business? We will compare the two businesses based on the strength of their institutional owners\u2026",
+            "url": "https://www.etfdailynews.com/2024/11/16/reviewing-covalon-technologies-otcmktscvalf-talkspace-nasdaqtalk/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/talkspace-inc-logo-1200x675.png?v=20230830143339&w=240&h=240&zc=2",
+            "publishedAt": "2024-11-16T07:52:49Z",
+            "content": "Covalon Technologies (OTCMKTS:CVALF \u2013 Get Free Report) and Talkspace (NASDAQ:TALK \u2013 Get Free Report) are both small-cap medical companies, but which is the better business? We will compare the two bu\u2026 [+5483 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ZDNet"
+            },
+            "author": "Kayla Solino",
+            "title": "The 20 best Black Friday Target deals 2024: Early sales live now",
+            "description": "Black Friday is only a couple of weeks away, and you can take advantage of tons of early deals on top tech at Target right now.",
+            "url": "https://www.zdnet.com/home-and-office/best-black-friday-target-deals-2024/",
+            "urlToImage": "https://www.zdnet.com/a/img/resize/542c7645578cde54360bf30b8bd189998d7114b8/2024/11/14/d7da0b1d-d0b9-4825-b445-a0b26a9cea42/target.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-11-15T14:00:26Z",
+            "content": "Holiday shopping season is my time to shine, and beyond testing lots of tech products for ZDNET, I love a good sale. And while everyone knows Black Friday is the shopping extravaganza of the season, \u2026 [+3972 chars]"
         },
         {
             "source": {
@@ -710,272 +723,90 @@
                 "name": "CNBC"
             },
             "author": null,
-            "title": "5 things to know before the stock market opens Thursday",
-            "description": "Here are five key things investors need to know to start the trading day.",
-            "url": "https://www.cnbc.com/2024/10/17/5-things-to-know-before-the-stock-market-opens-thursday-october-17.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/108034773-1726509781074-gettyimages-2163726099-VIRGINIA_DATA_CENTERS.jpeg?v=1729109286&w=1920&h=1080",
-            "publishedAt": "2024-10-17T11:21:00Z",
-            "content": "Here are five key things investors need to know to start the trading day:\r\n1. Bouncing back\r\nThe Dow Jones Industrial Average hit a new record close on Wednesday, recovering from its previous down da\u2026 [+3716 chars]"
-        },
-        {
-            "source": {
-                "id": "newsweek",
-                "name": "Newsweek"
-            },
-            "author": "Hatty Willmoth",
-            "title": "Nutritionists Explain Why Bowel Movements are 'Smellier' During Periods",
-            "description": "Many women experience digestive complaints on their period, and two nutritional therapists explain why this might be.",
-            "url": "https://www.newsweek.com/nutritionists-explain-why-bowel-movements-smellier-during-periods-1970113",
-            "urlToImage": "https://d.newsweek.com/en/full/2496919/woman-using-toilet.jpg",
-            "publishedAt": "2024-10-16T18:37:32Z",
-            "content": "For many women, blood is the least of their period troubles. It is well known that menstruating can bring pain, cramping, acne, mood swings\u2014but a lesser-known symptom is period poops.\r\nThe toilet sym\u2026 [+5431 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Brooke Seipel",
-            "title": "Justice Department will \u2018very likely\u2019 kill Google\u2019s billion-dollar deal to be the default search engine on iPhones, Jeffries predicts",
-            "description": "Jeffries estimates the $25 billion deal makes up 20% of Apple's pretax profit or about 6.3% of total revenue, representing an 8-11% hit on share prices.",
-            "url": "https://fortune.com/2024/10/16/apple-google-search-deal-antitrust-doj-jeffries/",
-            "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/10/GettyImages-1035708860-e1729111001385.jpg?resize=1200,600",
-            "publishedAt": "2024-10-16T21:31:10Z",
-            "content": "Analysts at Jeffries say its very likely the U.S. Department of Justice (DOJ) will ban Googles longtime search deal on iPhones, a decision Jeffries predicts could plummet Apples stocks by as much as \u2026 [+3006 chars]"
-        },
-        {
-            "source": {
-                "id": "fortune",
-                "name": "Fortune"
-            },
-            "author": "Luisa Beltran",
-            "title": "Vista\u2019s Robert Smith says enterprise software firms will be among the last to profit from AI\u2014but that the gains will be huge",
-            "description": "About 80% of Vista\u2019s portfolio companies have deployed or developed a gen AI tool",
-            "url": "https://fortune.com/2024/10/16/enterprise-software-vista-robert-smith-gen-ai-a-i-apple-samsung-nvidia-goldman-sachs-private-equity-thoma-bravo/",
-            "urlToImage": "",
-            "publishedAt": "2024-10-16T22:00:10Z",
-            "content": "Robert Smith, the founder, chairman and CEO of Vista Equity Partners, believes that software companies will be the ultimate beneficiaries of AI but only those that control their own data sets.Vista, \u2026 [+3127 chars]"
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "mfox@businessinsider.com (Matthew Fox)",
-            "title": "Warren Buffett's Berkshire Hathaway may have left $23 billion on the table by trimming Apple stock earlier this year",
-            "description": "Though Warren Buffett's firm missed out on some gains, Berkshire's Apple trade will likely go down as one of its best in history.",
-            "url": "https://markets.businessinsider.com/news/stocks/warren-buffett-apple-stock-stake-berkshire-hathaway-missed-profits-aapl-2024-10",
-            "urlToImage": "https://i.insider.com/6711056e3f2165d716e27077?width=1200&format=jpeg",
-            "publishedAt": "2024-10-17T15:07:18Z",
-            "content": "Berkshire Hathaway slashed its Apple position by 55% in the first half of 2024, even as the iPhone maker's stock traded at or near record highs.\r\nCalculations by Business Insider suggest Berkshire Ha\u2026 [+2106 chars]"
+            "title": "Trump presidency's potential impact on stocks of 6 companies doing big business in China",
+            "description": "Fortunately, as long-term investors, we have the luxury of viewing volatility as a buying opportunity.",
+            "url": "https://www.cnbc.com/2024/11/16/trump-presidency-impact-on-stocks-of-6-companies-that-do-business-in-china.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106065754-15651863090702019-08-05t161946z_1578719930_rc1a28949a80_rtrmadp_3_usa-economy.jpg?v=1590612701&w=1920&h=1080",
+            "publishedAt": "2024-11-16T17:51:06Z",
+            "content": "With Donald Trump set to reenter the White House in January, we're expecting lots of tough talk and possible tough action aimed at China if his rhetoric is any indication. That's sure to result in in\u2026 [+7631 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Eater"
+                "name": "POPSUGAR"
             },
-            "author": "Emily Venezky",
-            "title": "Lyle\u2019s New Chef Brings Some Funky Dishes to His Old Kitchen",
-            "description": "Chef Bill Williamson gets nostalgic as he takes over the same Dupont space he helped build almost a decade ago.",
-            "url": "https://dc.eater.com/2024/10/17/24272346/lyle-new-dupont-chef-bill-williamson-am-intel",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/j4D5_6ss0p5E2krCnPRWX1vW4WA=/0x1297:9504x6273/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25684518/Dry_Aged_KC_Strip_with_Roasted_Maitake__Blue_Cheese__1_.jpg",
-            "publishedAt": "2024-10-17T18:26:17Z",
-            "content": "The 90-day dry-aged Kansas City strip joins chef Bill Williamson\u2019s new menu at Lyle DC. | Lyle DC\r\n\n \n\n Chef Bill Williamson gets nostalgic as he takes over the same Dupont space he helped build almo\u2026 [+3988 chars]"
+            "author": "Samantha Fink",
+            "title": "Is Gendered Financial Advice Better For Women?",
+            "description": "The rules of the game for smart saving have changed. Enter: Money Moves, where we're tackling everything you need to know about personal finances.\nWhen Haley Kowalewski started her full-time job as a recruiter at Apple, she found herself in a room full of wom\u2026",
+            "url": "https://www.popsugar.com/money/gendered-financial-advice-49348167",
+            "urlToImage": "https://media1.popsugar-assets.com/files/thumbor/oRZQcrKhovpZ2kVhHl7DMA3E4So=/0x0:1200x630/fit-in/1200x630/top/filters:format_auto():quality(85):upscale()/2024/03/25/815/n/1922441/6418d89a6601c3c7da4c78.15830054_.jpg",
+            "publishedAt": "2024-11-15T23:45:02Z",
+            "content": "The rules of the game for smart saving have changed. Enter: Money Moves, where we're tackling everything you need to know about personal finances.\r\nWhen Haley Kowalewski started her full-time job as \u2026 [+8243 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investopedia"
+                "name": "Motley Fool Australia"
             },
-            "author": "Timothy Smith",
-            "title": "Watch These Apple Price Levels as Stock Trades Near Record High",
-            "description": "Apple shares hit a new record high Tuesday, the same day the tech giant unveiled the latest version of its Apple Intelligence-compatible iPad Mini. Watch these key price levels as trading gets underway Wednesday.",
-            "url": "https://www.investopedia.com/watch-these-apple-price-levels-as-stock-trades-near-record-high-8728791",
-            "urlToImage": "https://www.investopedia.com/thmb/SGRpeNjWE5BzVBTvTCCmeudoB10=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AAPLChart-a6c9ab6fd0ce456eb171b9bdc7c3de59.gif",
-            "publishedAt": "2024-10-16T13:30:47Z",
-            "content": "<ul><li>Apple shares are likely to remain on watchlists Wednesday after the stock briefly touched a new record high yesterday, the same day the tech giant unveiled the latest version of its Apple Int\u2026 [+3401 chars]"
+            "author": "Sebastian Bowen",
+            "title": "IVV vs VGS: Which is the better ASX ETF to buy right now?",
+            "description": "There are small but significant differences between these two index funds...\nThe post IVV vs VGS: Which is the better ASX ETF to buy right now? appeared first on The Motley Fool Australia.",
+            "url": "https://www.fool.com.au/2024/11/15/ivv-vs-vgs-which-is-the-better-asx-etf-to-buy-right-now/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2024/07/choices-1200x675.jpg",
+            "publishedAt": "2024-11-15T02:58:43Z",
+            "content": "Both the iShares S&amp;P 500 ETF (ASX: IVV) and the Vanguard MSCI Index International Shares ETF (ASX: VGS) find themselves on the ASX's most popular exchange-traded funds (ETFs) list.\r\nThe two funds\u2026 [+3439 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investopedia"
+                "name": "Motley Fool Australia"
             },
-            "author": "Nisha Gopalan",
-            "title": "TSMC Stock Jumps on AI-Fueled Earnings Surge",
-            "description": "U.S.-listed Taiwan Semiconductor Manufacturing Co. shares are jumping 8% in premarket trading after the chipmaker posted robust quarterly earnings and projected a buoyant outlook on the back of the artificial intelligence (AI) boom.",
-            "url": "https://www.investopedia.com/tsmc-stock-jumps-on-ai-fueled-earnings-surge-8729504",
-            "urlToImage": "https://www.investopedia.com/thmb/ZsWbohzA_KA1pIjgLF6Pfs7AKzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2159645732-98ed0ce9da02457582a65f5ba5df72aa.jpg",
-            "publishedAt": "2024-10-17T10:56:41Z",
-            "content": "<ul><li>U.S.-listed Taiwan Semiconductor Manufacturing Co. shares are jumping 8% in premarket trading after the chipmaker posted a quarterly earnings surge and projected a buoyant outlook on the back\u2026 [+1986 chars]"
+            "author": "Sebastian Bowen",
+            "title": "Does the Vanguard MSCI Index International Shares ETF (VGS) pay reliable dividends?",
+            "description": "This index fund does pay dividends, but there's a catch. \nThe post Does the Vanguard MSCI Index International Shares ETF (VGS) pay reliable dividends? appeared first on The Motley Fool Australia.",
+            "url": "https://www.fool.com.au/2024/11/16/does-the-vanguard-msci-index-international-shares-etf-vgs-pay-reliable-dividends/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2023/09/GettyImages-1124234780-1-1200x675.jpg",
+            "publishedAt": "2024-11-15T21:30:00Z",
+            "content": "The Vanguard MSCI Index International Shares ETF (ASX: VGS) is one of the most popular exchange-traded funds (ETFs) on the ASX. Particularly among funds that don't directly track ASX shares.\r\nThis in\u2026 [+2765 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "The Feed",
+            "title": "Black Friday 2024: From cosmetics to appliances, here are the top deals and discounts",
+            "description": "With Black Friday 2024 shaping up to be one of the biggest sales events of the year, preparation is key. Early deals are already setting the tone, and savvy shoppers can maximize their savings by planning ahead.",
+            "url": "https://economictimes.indiatimes.com/news/international/us/black-friday-2024-from-cosmetics-to-appliances-here-are-the-top-deals-and-discounts/articleshow/115337707.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-115337716,width-1200,height-630,imgsize-134484,overlay-economictimes/articleshow.jpg",
+            "publishedAt": "2024-11-15T14:08:52Z",
+            "content": "As Black Friday 2024 approaches, major retailers and brands are already offering early access to some of the years best discounts. From beauty essentials to high-tech gadgets and home appliances, thi\u2026 [+3773 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ETtech",
+            "title": "Zepto\u2019s fundraise; Mamaearth CEO Varun Alagh's interview",
+            "description": "Zepto is raising funds from domestic investors as it takes on the competition in the high-stakes quick commerce battle. This and more in today\u2019s ETtech Top 5.",
+            "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/zeptos-fundraise-varun-alagh-on-mamaearths-challenges/articleshow/115336258.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-115336258,width-1070,height-580,imgsize-1951043,overlay-ettech/editionshow.jpg",
+            "publishedAt": "2024-11-15T13:26:20Z",
+            "content": "Zepto is mopping more funds from local investors. This and more in todays ETtech Top 5.Also in the letter:Delhivery CEO on quick commerce impactTelcos raise concernsApple surpasses Samsung\r\nZepto set\u2026 [+6712 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Investopedia"
+                "name": "Freerepublic.com"
             },
-            "author": "Bill McColl",
-            "title": "Nvidia Stock Hits Another Record High as AI Chip Excitement Returns",
-            "description": "Nvidia shares hit another record high Thursday as concerns earlier this week about a softening in the semiconductor market was eased by TSMC's earnings report.",
-            "url": "https://www.investopedia.com/nvidia-stock-hits-another-record-high-as-ai-chip-excitement-returns-8729823",
-            "urlToImage": "https://www.investopedia.com/thmb/ccb5YXObFc3T7u9W9QHbXemj29Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/INV_NvidiaBuilding_GettyImages-1258974271-25bafd7ee7344fa5a81c929849b094fc.jpg",
-            "publishedAt": "2024-10-17T17:28:33Z",
-            "content": "<ul><li>Nvidia shares set yet another record high Thursday as concerns earlier this week about a softening in the semiconductor market was eased by TSMC's earnings report.</li><li>The Taiwanese suppl\u2026 [+1422 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Rodsbooks.com"
-            },
-            "author": "Com\u00e8te",
-            "title": "Com\u00e8te : The rEFInd Boot Manager",
-            "description": "rEFInd is a boot manager, meaning that it presents a menu of options to the user when the computer first starts up, as shown below. rEFInd is not a boot loader, which is a program that loads an OS kernel and hands off control to it. Many popular boot managers\u2026",
-            "url": "https://www.rodsbooks.com/refind/",
+            "author": "YouTube",
+            "title": "Robots sculpt marble in Italy, sparking worries about future of art form",
+            "description": "A fleet of marble-sculpting robots is carving out the future of the art world. It's a move some artists see as cheating, but others are embracing the change.Robots sculpt marble in Italy, sparking worries about future of art form | 13:1760 Minutes | 3.27M sub\u2026",
+            "url": "https://freerepublic.com/focus/f-chat/4278539/posts",
             "urlToImage": null,
-            "publishedAt": "2024-10-16T15:34:05Z",
-            "content": "by Roderick W. Smith, rodsmith@rodsbooks.com\r\nOriginally written: March 14, 2012; last Web page update:\r\nApril 6, 2024, referencing rEFInd 0.14.2\r\nThis Web page is provided free of charge and with no\u2026 [+8106 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Prtimes.jp"
-            },
-            "author": null,
-            "title": "\u3010\u65e5\u672c\u521d\u3011\u5b66\u751f\u6295\u8cc7\u30b5\u30fc\u30af\u30eb\u4e3b\u50ac\u306e\u300e\u56fd\u969b\u6295\u8cc7\u5927\u4f1a\u300f\u304c\u958b\u50ac\uff01\u4e16\u754c9\u30ab\u56fd12\u30c1\u30fc\u30e0\u304c10\u4e07\uff04\u904b\u7528\u306e\u53ce\u76ca\u3092\u7af6\u3046\uff01\uff01",
-            "description": "[\u682a\u5f0f\u6295\u8cc7\u30b5\u30fc\u30af\u30ebforward]\n\u7dcf\u984d\u7d0440\u5104\u5186\u3092\u64ec\u4f3c\u904b\u7528\uff01\uff01\u300cWORLD INVESTMENT COMPETITON 2024\u300d\n\n\n[\u753b\u50cf1: https://prtimes.jp/i/148790/2/resize/d148790-2-02bd939c921e8a28cf5b-7.jpg ]\n\n\u300cWORLD INVESTMENT COMPETITION 2024\u300d\u306f\u3001\u56fd\u5883\u3092...",
-            "url": "https://prtimes.jp/main/html/rd/p/000000002.000148790.html",
-            "urlToImage": "https://prcdn.freetls.fastly.net/release_image/148790/2/148790-2-6bbe7a84b9d8f7eb2aa08645fc0f995f-1280x720.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-            "publishedAt": "2024-10-17T07:22:34Z",
-            "content": "<ul><li>40WORLD INVESTMENT COMPETITON 2024\r\n</li></ul>\r\nWORLD INVESTMENT COMPETITION 2024\r\nWORLDINVESTMENT COMPETITION 2024\r\n 202223()1122()2\r\nETF\r\n31100000\r\nTradingView.incPaper Trading\r\n10TradingVi\u2026 [+970 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Investor's Business Daily"
-            },
-            "author": "Investor's Business Daily",
-            "title": "Dow Jones Futures: Nvidia In Buy Area With Taiwan Semi Due; Why Nuclear Stocks Are Radioactive",
-            "description": "The stock market is strong with Nvidia in a buy area ahead of Taiwan Semiconductor. Nuclear stocks are too hot to handle now.",
-            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-buy-area-taiwan-semi-earnings-nuclear-stocks/",
-            "urlToImage": "https://www.investors.com/wp-content/uploads/2018/10/stock-nuclear-power-23-adobe.jpg",
-            "publishedAt": "2024-10-16T21:34:31Z",
-            "content": "Dow Jones futures were little changed after hours, along with S&amp;P 500 futures and Nasdaq futures. Taiwan Semiconductor (TSM) reports early Thursday with retail sales headlining big economic repor\u2026 [+6064 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "GuruFocus.com",
-            "title": "State Street Corp's Strategic Acquisition of Paramount Global Shares",
-            "description": "Overview of the Recent Trade State Street Corp, a prominent investment firm, recently expanded its portfolio by acquiring an additional 6,850,073 shares of Paramount Global (NASDAQ:PARA) at a price of $10.62 per share. This transaction, dated September 30, 20\u2026",
-            "url": "https://finance.yahoo.com/news/state-street-corps-strategic-acquisition-170712925.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zCoETyygImJwF1FW.UM_bw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzE-/https://media.zenfs.com/en/us.finance.gurufocus/92074efc8abb559cb0a66f327bef7379",
-            "publishedAt": "2024-10-16T17:07:12Z",
-            "content": "Overview of the Recent Trade\r\nState Street Corp, a prominent investment firm, recently expanded its portfolio by acquiring an additional 6,850,073 shares of Paramount Global (NASDAQ:PARA) at a price \u2026 [+3755 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "GuruFocus.com",
-            "title": "State Street Corp's Strategic Acquisition of Omnicom Group Shares",
-            "description": "State Street Corp recently expanded its investment in Omnicom Group Inc (NYSE:OMC), acquiring an additional 760,794 shares at a price of $103.39 per share on September 30, 2024. This transaction has increased State Street's total holdings in Omnicom to 14,119\u2026",
-            "url": "https://finance.yahoo.com/news/state-street-corps-strategic-acquisition-170708595.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ZAzjlMtV2Wr4qvturLEeOw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzE-/https://media.zenfs.com/en/us.finance.gurufocus/c30ee35dcee0e43f1fdcd767504e792a",
-            "publishedAt": "2024-10-16T17:07:08Z",
-            "content": "State Street Corp recently expanded its investment in Omnicom Group Inc (NYSE:OMC), acquiring an additional 760,794 shares at a price of $103.39 per share on September 30, 2024. This transaction has \u2026 [+3996 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "GuruFocus.com",
-            "title": "State Street Corp's Strategic Acquisition of News Corp Shares",
-            "description": "On September 30, 2024, State Street Corp made a significant addition to its investment portfolio by acquiring 19,030,753 shares of News Corp (NASDAQ:NWS). This transaction increased State Street Corp's total holdings in News Corp to 25,804,935 shares, reflect\u2026",
-            "url": "https://finance.yahoo.com/news/state-street-corps-strategic-acquisition-170657353.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/7AO2c8sf87.5iwZhNttyDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzE-/https://media.zenfs.com/en/us.finance.gurufocus/850b93e0b9fce1c020034662c26ab95f",
-            "publishedAt": "2024-10-16T17:06:57Z",
-            "content": "Overview of State Street Corp's Recent Transaction\r\nOn September 30, 2024, State Street Corp made a significant addition to its investment portfolio by acquiring 19,030,753 shares of News Corp (NASDA\u2026 [+4135 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "GuruFocus.com",
-            "title": "State Street Corp's Strategic Acquisition of Edison International Shares",
-            "description": "On September 30, 2024, State Street Corp made a significant addition to its investment portfolio by acquiring 32,551,588 shares of Edison International (NYSE:EIX). This transaction, executed at a price of $87.09 per share, reflects a strategic move by the fir\u2026",
-            "url": "https://finance.yahoo.com/news/state-street-corps-strategic-acquisition-170517868.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TU_fZUiJW5Ts2nN8_t_erQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NzE-/https://media.zenfs.com/en/us.finance.gurufocus/ee3e72ceb012498090dee20fa2569622",
-            "publishedAt": "2024-10-16T17:05:17Z",
-            "content": "Overview of the Recent Transaction\r\nOn September 30, 2024, State Street Corp made a significant addition to its investment portfolio by acquiring 32,551,588 shares of Edison International (NYSE:EIX).\u2026 [+4786 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Histalk2.com"
-            },
-            "author": "Mr. HIStalk",
-            "title": "News 10/18/24",
-            "description": "Top News Epic asks a federal court to dismiss the ...",
-            "url": "https://histalk2.com/2024/10/17/news-10-18-24/",
-            "urlToImage": null,
-            "publishedAt": "2024-10-17T20:35:42Z",
-            "content": "Top News\r\nEpic asks a federal court to dismiss the antitrust lawsuit that Particle Health brought against it, citing these arguments:\r\n<ul><li>Particles customers violated patient privacy by accessin\u2026 [+9241 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Wccftech"
-            },
-            "author": "Rohail Saleem",
-            "title": "The Next AI Trade: Craig-Hallum Upgrades NuScale For Its \u201cIdeal\u201d Position Within The Emerging \u201cNuclear/SMR Adoption\u201d Paradigm Shift",
-            "description": "Nuclear energy is currently attracting exorbitant interest to meet the soaring demand from data centers throughout the continental US as the nation prepares to tap the century-defining potential that AI offers. Now, Craig-Hallum has upgraded the stock price o\u2026",
-            "url": "https://wccftech.com/the-next-ai-trade-craig-hallum-upgrades-nuscale-for-its-ideal-position-within-the-emerging-nuclear-smr-adoption-paradigm-shift/",
-            "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2024/10/NuScale.webp",
-            "publishedAt": "2024-10-17T14:29:51Z",
-            "content": "This is not investment advice. The author has no position in any of the stocks mentioned. Wccftech.com has a disclosure and ethics policy.\r\nNuclear energy is currently attracting exorbitant interest \u2026 [+3849 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "New York Post"
-            },
-            "author": "Barret Wertz",
-            "title": "Why now\u2019s the best time to save with Robinhood: HOOD Week explained",
-            "description": "Don't let yourself get hoodwinked into bad investment decisions.",
-            "url": "https://nypost.com/2024/10/17/lifestyle/invest-and-save-more-during-robinhood-hood-week/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/10/Robinhood-Hood-Week-Lead.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-10-17T17:30:52Z",
-            "content": "New York Post may be compensated and/or receive an affiliate commission if you buy through our links. Featured pricing is subject to change.\r\nIf youve ever considered investing but find that staring \u2026 [+6402 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Tistory.com"
-            },
-            "author": "T.B",
-            "title": "\uae40\uac74\ud76c \uac8c\uc774\ud2b8(2024 Election, War and Rich) 211",
-            "description": "Viewing China\u2019s relations with individual African states as a single unified policy is misleading both for China and for those watching from afar. https://t.co/J2wc5pjdca\u2014 The Diplomat (@Diplomat_APAC) October 14, 2024\u00a0Yapi Merkezi signs a deal to build a rai\u2026",
-            "url": "https://ryueyes11.tistory.com/511105",
-            "urlToImage": "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FdJ5sNi%2FbtsJ8qHZgWs%2FkK2R26MKGpU6GjKxKmc360%2Fimg.jpg",
-            "publishedAt": "2024-10-17T06:40:49Z",
-            "content": "Viewing China\u2019s relations with individual African states as a single unified policy is misleading both for China and for those watching from afar. https://t.co/J2wc5pjdca\r\n\u2014 The Diplomat (@Diplomat_A\u2026 [+19329 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MarketWatch"
-            },
-            "author": null,
-            "title": "Podcast: These are the people affecting markets \u2014 and your money",
-            "description": "Every year, MarketWatch introduces you to 50 of the most influential people in markets, so you know who is making money move. Today, we speak with two people on the list - Claudia Sahm and Meb Faber.",
-            "url": "https://www.marketwatch.com/podcasts/on-watch-by-marketwatch/the-people-affecting-markets-and-your-money/9cfc5bc7-8483-4f7b-a46b-75a4cb72e524?g=3b263e77-25ce-4aed-af4a-5eec75911a62&mod=mw_rss_bulletins",
-            "urlToImage": "https://images.wsj.net/im-930787?width=1280",
-            "publishedAt": "2024-10-17T22:36:28Z",
-            "content": "This transcript was prepared by a transcription service. This version may not be in its final form and may be updated.\r\nJeremy Owens: Hello and welcome to On Watch by MarketWatch. I'm Jeremy Owens. T\u2026 [+23766 chars]"
+            "publishedAt": "2024-11-15T05:38:46Z",
+            "content": "The rest of the AI keyword, sorted:\r\n<ul><li>AI Just Analyzed Philosophy -- And Its Questions Are Terrifying [16:44] [11/14/2024]</li><li>Joe Biden and Donald Trump, two bros just hanging out togethe\u2026 [+108283 chars]"
         },
         {
             "source": {
@@ -983,324 +814,155 @@
                 "name": "The Times of India"
             },
             "author": "Reuters",
-            "title": "Wall Street indexes end lower as chip, oil stocks drop",
-            "description": "Wall Street's stock indexes closed lower with the Nasdaq falling 1%, hit by declining chip stocks due to demand concerns and potential export caps on AI chips. Energy stocks also tumbled as oil prices fell. Despite some positive earnings, UnitedHealth shares \u2026",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-street-indexes-end-lower-as-chip-oil-stocks-drop/articleshow/114266888.cms",
-            "urlToImage": "https://img.etimg.com/thumb/msid-114266890,width-1200,height-630,imgsize-86194,overlay-etmarkets/articleshow.jpg",
-            "publishedAt": "2024-10-16T01:36:13Z",
-            "content": "Wall Street's major stock indexes closed lower on Tuesday, with a 1% drop in the technology-heavy Nasdaq leading losses as chip stocks tumbled on demand concerns while the energy sector fell 3% as oi\u2026 [+3868 chars]"
-        },
-        {
-            "source": {
-                "id": "focus",
-                "name": "Focus"
-            },
-            "author": "Von Autor Oliver Stock",
-            "title": "Eher konservative Ans\u00e4tze - \u201eBunte sozialistische Wundert\u00fcte\u201c: Firmen watschen Wagenknechts Wirtschaftsplan ab",
-            "description": "Sahra Wagenknecht hat auf vieles eine gute Antwort. Beim Wirtschaftsprogramm allerdings ger\u00e4t die Ex-Kommunistin ins Schwimmen. Es h\u00f6rt sich gut an, doch bei n\u00e4herem Hinsehen l\u00e4uft es auf Verstaatlichungen und Subventionen aus Steuergeld hinaus. Viele Unterne\u2026",
-            "url": "https://www.focus.de/finanzen/eher-konservative-ansaetze-bunte-sozialistische-wundertuete-firmen-watschen-wagenknechts-wirtschaftsplan-ab_id_260395174.html",
-            "urlToImage": "https://p6.focus.de/img/fotos/id_260369089/sahra-wagenknecht-.jpg?im=Crop%3D%280%2C0%2C3464%2C1732%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=b0b5548b3ee73406f04474af7d520f4cdaf61a9043634a5321e409e631ccfe78",
-            "publishedAt": "2024-10-16T13:30:01Z",
-            "content": "Sahra Wagenknecht hat auf vieles eine gute Antwort. Beim Wirtschaftsprogramm allerdings ger\u00e4t die Ex-Kommunistin ins Schwimmen. Es h\u00f6rt sich gut an, doch bei n\u00e4herem Hinsehen l\u00e4uft es auf Verstaatlic\u2026 [+8259 chars]"
+            "title": "Wall St Week Ahead-Nvidia results in focus as stock market's election boost stalls",
+            "description": "Nvidia's upcoming earnings report is poised to significantly influence the U.S. stock market, as investors seek direction following the recent election rally. The company's dominant position in AI and strong projected growth are expected to impact tech stocks\u2026",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/wall-st-week-ahead-nvidia-results-in-focus-as-stock-markets-election-boost-stalls/articleshow/115351568.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-115351595,width-1200,height-630,imgsize-92020,overlay-etmarkets/articleshow.jpg",
+            "publishedAt": "2024-11-16T04:22:13Z",
+            "content": "Nvidia Corp's results in the coming week could guide the U.S. stock market on its next path, as investors turn their focus to the technology sector and artificial intelligence trade after an election\u2026 [+3720 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Biztoc.com"
+                "name": "Macworld"
             },
-            "author": "marketbeat.com",
-            "title": "Apple (NASDAQ:AAPL) Shares Down 0.1% - What's Next?",
-            "description": "Apple (NASDAQ:AAPL) Stock Price Down 0.1% - Time to Sell?",
-            "url": "https://biztoc.com/x/c1d760fd699f0027",
-            "urlToImage": "https://biztoc.com/cdn/805/og.png",
-            "publishedAt": "2024-10-17T19:20:17Z",
-            "content": "Apple (NASDAQ:AAPL) Stock Price Down 0.1% - Time to Sell?\r\nThis story appeared on marketbeat.com, 2024-10-17 19:11:46."
+            "author": "Karen Haslam",
+            "title": "Grab a Mac mini or iMac for less with these Black Friday deals",
+            "description": "Macworld\n\n\n\r\n\n\n\n\nBlack Friday, the biggest shopping weekend of the year, is very nearly here and you can expect to get a good deal on a new Mac between November 29 until December 2, 2024. In fact we are already seeing some deals which you can find below! \r\n\n\n\u2026",
+            "url": "https://www.macworld.com/article/1373696/mac-black-friday-deals-2024.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2024/11/mw-all-macs-bf-primary-8.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2024-11-15T16:57:36Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nBlack Friday, the bi\u2026 [+6906 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "Crankyflier.com"
             },
-            "author": "MarketBeat News",
-            "title": "Hilltop Partners LLC Grows Stock Position in Apple Inc. (NASDAQ:AAPL)",
-            "description": "Hilltop Partners LLC grew its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% in the 2nd quarter, according to the company in its most recent Form 13F filing with the Securities & Exchange Commission. The fund owned 30,877 shares of the i\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/16/hilltop-partners-llc-grows-stock-position-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-16T08:02:51Z",
-            "content": "Hilltop Partners LLC grew its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% in the 2nd quarter, according to the company in its most recent Form 13F filing with the Securities \u2026 [+6654 chars]"
+            "author": "Andrew",
+            "title": "Cranky Weekly Review Presented by OAK: Spirit Reaches a Crossroads, Apple Knows Where Your Lost Bag Is",
+            "description": "Spirit Braces for Potential Bankruptcy Spirit Airlines creditors are preparing themselves for a possible Chapter [\u2026]",
+            "url": "https://crankyflier.com/2024/11/15/cranky-weekly-review-presented-by-oak-spirit-reaches-a-crossroads-apple-knows-where-your-lost-bag-is/",
+            "urlToImage": null,
+            "publishedAt": "2024-11-15T19:00:00Z",
+            "content": "Spirit Airlines creditors are preparing themselves for a possible Chapter 11 filing by the carrier after the creditors failed to pay their $14.99 bankruptcy-avoidance fee en masse this week following\u2026 [+7288 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "Europapress.es"
             },
-            "author": "MarketBeat News",
-            "title": "Apple Inc. (NASDAQ:AAPL) Stock Holdings Cut by Cypress Funds LLC",
-            "description": "Cypress Funds LLC cut its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 24.5% in the second quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC). The institutional investor owned 148,297 shares of the iPho\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/16/apple-inc-nasdaqaapl-stock-holdings-cut-by-cypress-funds-llc/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-16T08:02:52Z",
-            "content": "Cypress Funds LLC cut its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 24.5% in the second quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC).\u2026 [+7081 chars]"
+            "author": null,
+            "title": "Dongfeng lanza el Box, su urbano el\u00e9ctrico desde 25.995 euros y con autonom\u00eda de 340 kil\u00f3metros",
+            "description": "La marca china Dongfeng ha lanzado al mercado espa\u00f1ol su modelo urbano el\u00e9ctrico compacto, Box, que cuenta con una autonom\u00eda de 340 kil\u00f3metros en ciclo urbano y un precio de venta al p\u00fablico que parte de los 25.995 euros.",
+            "url": "https://www.europapress.es/motor/sector-00644/noticia-donfeng-lanza-box-urbano-electrico-25995-euros-autonomia-340-kilometros-20241115083053.html",
+            "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20241115083053_1200.jpg",
+            "publishedAt": "2024-11-15T07:30:53Z",
+            "content": "La marca china aclara que el precio incluye ya el impacto de los aranceles de la UE y que no incrementar\u00e1 en el resto de este a\u00f1o\r\n MADRID, 15 Nov. (EUROPA PRESS) - \r\n La marca china Dongfeng ha lanz\u2026 [+4311 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "space2occupy@gmail.com (James Holland)",
+            "title": "Roku Ultra (2024) review: a souped-up streamer with a fantastic remote",
+            "description": "Though a bit pricey, its performance, intuitive interface and fantastic remote make it worth it.",
+            "url": "https://www.techradar.com/televisions/streaming-devices/roku-ultra-2024-review",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/ytMsEcBc5wBmhzX25rTeUZ-1200-80.jpg",
+            "publishedAt": "2024-11-16T14:31:00Z",
+            "content": "Roku Ultra (2024): Two-minute review\r\nRoku Ultra (2024) home screen interface (Image credit: Future)\r\nThe Roku Ultra (2024) is as capable a streaming player as I\u2019ve yet come across, though whether it\u2026 [+10760 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Biztoc.com"
+                "name": "[Removed]"
             },
-            "author": "aol.com",
-            "title": "Prediction: This Will Be Wall Street's First $5 Trillion Stock",
-            "description": "There are six publicly traded companies with trillion-dollar valuations. With a market cap of roughly $1.9 trillion, Amazon (NASDAQ: AMZN) is the fifth-most-valuable company in the world, trailing peers including Apple, Microsoft, Nvidia, and Alphabet.\nFor no\u2026",
-            "url": "https://biztoc.com/x/20e55f5f0835a2ea",
-            "urlToImage": "https://biztoc.com/cdn/20e55f5f0835a2ea_s.webp",
-            "publishedAt": "2024-10-16T11:38:48Z",
-            "content": "There are six publicly traded companies with trillion-dollar valuations. With a market cap of roughly $1.9 trillion, Amazon (NASDAQ: AMZN) is the fifth-most-valuable company in the world, trailing pe\u2026 [+143 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-16T10:07:47Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Biztoc.com"
+                "name": "[Removed]"
             },
-            "author": "aol.com",
-            "title": "Tim Cook is having a great week as Apple stock hovers within reach of record high",
-            "description": "IDC recently estimated that iPhone shipments rose 3.5% in the third quarter.\nAnalysts are optimistic about Apple's iPhone 16 sales going into the holiday season.\nApple shares hit a record intraday high earlier this week.\nFall is shaping up to be good for Tim \u2026",
-            "url": "https://biztoc.com/x/475b9e9cbea478a6",
-            "urlToImage": "https://biztoc.com/cdn/475b9e9cbea478a6_s.webp",
-            "publishedAt": "2024-10-17T11:13:44Z",
-            "content": "IDC recently estimated that iPhone shipments rose 3.5% in the third quarter.Analysts are optimistic about Apple's iPhone 16 sales going into the holiday season.Apple shares hit a record intraday high\u2026 [+141 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-16T10:37:21Z",
+            "content": "[Removed]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Biztoc.com"
+                "name": "Slashdot.org"
             },
-            "author": "aol.com",
-            "title": "Apple stock hits record intraday high on bullish Wall Street outlooks, positive iPhone sales data",
-            "description": "hit an all-time intraday high Tuesday as Wall Street analysts issued bullish outlooks on the stock ahead of the release of Apple Intelligence.\nApple shares reached $237.49 on Tuesday before paring gains, eclipsing its prior record of $237.23 on July 15. The s\u2026",
-            "url": "https://biztoc.com/x/9e2fa2e08cb076c9",
-            "urlToImage": "https://biztoc.com/cdn/9e2fa2e08cb076c9_s.webp",
-            "publishedAt": "2024-10-16T03:28:26Z",
-            "content": "hit an all-time intraday high Tuesday as Wall Street analysts issued bullish outlooks on the stock ahead of the release of Apple Intelligence.Apple shares reached $237.49 on Tuesday before paring gai\u2026 [+146 chars]"
+            "author": "feedfeeder",
+            "title": "Buffett's Berkshire Buys Shares of Domino's Pizza and Pool Corp., Dumps Apple Stock - Investopedia",
+            "description": "Buffett's Berkshire Buys Shares of Domino's Pizza and Pool Corp., Dumps Apple StockInvestopedia Warren Buffett Sold Apple, BofA In Q3. He Bought These Stocks.Investor's Business Daily Tracking Warren Buffett\u2019s Berkshire Hathaway Portfolio \u2013 Q3 2024 Update (NY\u2026",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175474495",
+            "urlToImage": null,
+            "publishedAt": "2024-11-15T02:52:34Z",
+            "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
         },
         {
             "source": {
                 "id": null,
-                "name": "Biztoc.com"
+                "name": "Slashdot.org"
             },
-            "author": "businessinsider.com",
-            "title": "Tim Cook is having a great week as Apple stock hovers within reach of record high",
-            "description": "Wall Street analysts expect Apple to get a boost from the rollout of its generative AI features, called Apple Intelligence.\nMichael M. Santiago/Getty Images\nIDC recently estimated that iPhone shipments rose 3.5% in the third quarter.\nAnalysts are optimistic a\u2026",
-            "url": "https://biztoc.com/x/2dec4dad72b3ad07",
-            "urlToImage": "https://biztoc.com/cdn/2dec4dad72b3ad07_s.webp",
-            "publishedAt": "2024-10-17T10:30:58Z",
-            "content": "Wall Street analysts expect Apple to get a boost from the rollout of its generative AI features, called Apple Intelligence.Michael M. Santiago/Getty ImagesIDC recently estimated that iPhone shipments\u2026 [+150 chars]"
+            "author": "feedfeeder",
+            "title": "Amazon Fire HD 8 (2024) review: A cheap tablet hampered by outdated software",
+            "description": "The latest Amazon Fire HD 8, updated last month and starting at $100, is a modest refresh, offering more RAM, a nominally upgraded camera and some new AI features. The general sales pitch, however, remains the same: You get a just-competent tablet for the ess\u2026",
+            "url": "https://slashdot.org/firehose.pl?op=view&amp;id=175476785",
+            "urlToImage": null,
+            "publishedAt": "2024-11-15T15:12:30Z",
+            "content": "The latest Amazon Fire HD 8, updated last month and starting at $100, is a modest refresh, offering more RAM, a nominally upgraded camera and some new AI features. The general sales pitch, however, r\u2026 [+12396 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "Kvraudio.com"
             },
-            "author": "MarketBeat News",
-            "title": "Apple Inc. (NASDAQ:AAPL) Stock Holdings Trimmed by Chilton Capital Management LLC",
-            "description": "Chilton Capital Management LLC lowered its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.1% during the 2nd quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission. The firm owned 453,509 shares of the\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/17/apple-inc-nasdaqaapl-stock-holdings-trimmed-by-chilton-capital-management-llc/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-17T07:42:50Z",
-            "content": "Chilton Capital Management LLC lowered its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.1% during the 2nd quarter, according to the company in its most recent disclosure with the Securities a\u2026 [+6784 chars]"
+            "author": null,
+            "title": "Talk me out of switching to Mac (in: Computer Setup and S...)",
+            "description": "By: Cavey Arrgh 16 Nov 16:38 Folks, longtime PC user here, I don't want to switch to Mac, but I want a new machine for my DAW/Audio work. I'm just hobbyist, but if Im going through all the trouble of a new PC, I want something that at least comes close to dou\u2026",
+            "url": "https://www.kvraudio.com/forum/viewtopic.php?t=615993",
+            "urlToImage": "https://static.kvraudio.com/i/b/kvraudio-300x300-grey-eeeeee.png",
+            "publishedAt": "2024-11-16T16:38:14Z",
+            "content": "Folks, longtime PC user here, I don't want to switch to Mac, but I want a new machine for my DAW/Audio work. I'm just hobbyist, but if Im going through all the trouble of a new PC, I want something t\u2026 [+1325 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "Macworld"
             },
-            "author": "MarketBeat News",
-            "title": "Augustine Asset Management Inc. Has $28.55 Million Stake in Apple Inc. (NASDAQ:AAPL)",
-            "description": "Augustine Asset Management Inc. lifted its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% in the second quarter, Holdings Channel.com reports. The firm owned 135,527 shares of the iPhone maker\u2019s stock after buying an additional 398 shares during the \u2026",
-            "url": "https://www.etfdailynews.com/2024/10/16/augustine-asset-management-inc-has-28-55-million-stake-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-16T08:02:51Z",
-            "content": "Augustine Asset Management Inc. lifted its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% in the second quarter, Holdings Channel.com reports. The firm owned 135,527 shares of the iPhone mak\u2026 [+6323 chars]"
+            "author": "Karen Haslam",
+            "title": "The MacBook deals have already started for Black Friday 2024",
+            "description": "Macworld\n\n\n\r\n\n\n\n\nThe big day is nearly here: Black Friday is the biggest shopping event of the year and if you are looking for a deal on a new MacBook Air or MacBook Pro you have come to the right place. \r\n\n\n\n\nWe check all the best resellers in the U.S. and t\u2026",
+            "url": "https://www.macworld.com/article/1373543/macbook-black-friday-deals-2024.html",
+            "urlToImage": "https://www.macworld.com/wp-content/uploads/2024/11/mw-macbooks-bf-primary-2.jpg?quality=50&strip=all&w=1024",
+            "publishedAt": "2024-11-15T12:07:45Z",
+            "content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nThe big day is nearl\u2026 [+7173 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "ETF Daily News"
+                "name": "[Removed]"
             },
-            "author": "MarketBeat News",
-            "title": "West Wealth Group LLC Has $10.07 Million Position in Apple Inc. (NASDAQ:AAPL)",
-            "description": "West Wealth Group LLC cut its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.4% during the 2nd quarter, HoldingsChannel.com reports. The fund owned 47,808 shares of the iPhone maker\u2019s stock after selling 189 shares during the period. Apple makes up 3\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/16/west-wealth-group-llc-has-10-07-million-position-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-16T08:02:51Z",
-            "content": "West Wealth Group LLC cut its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.4% during the 2nd quarter, HoldingsChannel.com reports. The fund owned 47,808 shares of the iPhone maker\u2019s stock \u2026 [+7054 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ETF Daily News"
-            },
-            "author": "MarketBeat News",
-            "title": "Apple Inc. (NASDAQ:AAPL) Shares Purchased by Clayton Financial Group LLC",
-            "description": "Clayton Financial Group LLC grew its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.2% during the second quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The firm owned 32,694 shares of the iPhone ma\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/16/apple-inc-nasdaqaapl-shares-purchased-by-clayton-financial-group-llc/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-16T08:02:50Z",
-            "content": "Clayton Financial Group LLC grew its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.2% during the second quarter, according to the company in its most recent filing with the Securities &amp; Ex\u2026 [+6322 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "marketbeat.com",
-            "title": "Apple (NASDAQ:AAPL) Trading Down 1.4% - Here's Why",
-            "description": "Apple Inc. (NASDAQ:AAPL - Get Free Report) dropped 1.4% during mid-day trading on Wednesday . The stock traded as low as $229.84 and last traded at $230.49. Approximately 12,201,508 shares traded hands during mid-day trading, a decline of 80% from the average\u2026",
-            "url": "https://biztoc.com/x/63b32043dc1b35af",
-            "urlToImage": "https://biztoc.com/cdn/63b32043dc1b35af_s.webp",
-            "publishedAt": "2024-10-16T19:01:00Z",
-            "content": "Apple Inc. (NASDAQ:AAPL - Get Free Report) dropped 1.4% during mid-day trading on Wednesday . The stock traded as low as $229.84 and last traded at $230.49. Approximately 12,201,508 shares traded han\u2026 [+147 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ETF Daily News"
-            },
-            "author": "MarketBeat News",
-            "title": "Apple Inc. (NASDAQ:AAPL) Shares Purchased by DDD Partners LLC",
-            "description": "DDD Partners LLC lifted its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.2% during the 2nd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The institutional investor owned 185,339 shares of the iPhone\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/16/apple-inc-nasdaqaapl-shares-purchased-by-ddd-partners-llc/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-16T08:37:10Z",
-            "content": "DDD Partners LLC lifted its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.2% during the 2nd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). T\u2026 [+7093 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ETF Daily News"
-            },
-            "author": "MarketBeat News",
-            "title": "Retirement Income Solutions Inc Increases Stake in Apple Inc. (NASDAQ:AAPL)",
-            "description": "Retirement Income Solutions Inc boosted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.4% in the second quarter, according to its most recent filing with the Securities & Exchange Commission. The fund owned 21,141 shares of the iPhone m\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/17/retirement-income-solutions-inc-increases-stake-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-17T07:42:59Z",
-            "content": "Retirement Income Solutions Inc boosted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.4% in the second quarter, according to its most recent filing with the Securities &amp; E\u2026 [+7273 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ETF Daily News"
-            },
-            "author": "MarketBeat News",
-            "title": "Willis Johnson & Associates Inc. Increases Stake in Apple Inc. (NASDAQ:AAPL)",
-            "description": "Willis Johnson & Associates Inc. boosted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.9% during the 2nd quarter, according to its most recent 13F filing with the SEC. The fund owned 31,205 shares of the iPhone maker\u2019s stock after purc\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/17/willis-johnson-associates-inc-increases-stake-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-17T07:42:59Z",
-            "content": "Willis Johnson &amp; Associates Inc. boosted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.9% during the 2nd quarter, according to its most recent 13F filing with the SEC. The\u2026 [+6695 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ETF Daily News"
-            },
-            "author": "MarketBeat News",
-            "title": "Apple Inc. (NASDAQ:AAPL) Short Interest Up 8.6% in September",
-            "description": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) was the target of a significant increase in short interest in September. As of September 30th, there was short interest totalling 141,740,000 shares, an increase of 8.6% from the September 15th total of 130,540,000 s\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/16/apple-inc-nasdaqaapl-short-interest-up-8-6-in-september/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-16T07:00:58Z",
-            "content": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) was the target of a significant increase in short interest in September. As of September 30th, there was short interest totalling 141,740,000 shares, an inc\u2026 [+6930 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ETF Daily News"
-            },
-            "author": "MarketBeat News",
-            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Mechanics Financial Corp",
-            "description": "Mechanics Financial Corp trimmed its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.0% during the 2nd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The fund owned 64,399 shares of the iPhone maker\u2019s s\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/16/apple-inc-nasdaqaapl-shares-sold-by-mechanics-financial-corp/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-16T08:02:51Z",
-            "content": "Mechanics Financial Corp trimmed its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.0% during the 2nd quarter, according to its most recent filing with the Securities and Exchange Commission\u2026 [+7083 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ETF Daily News"
-            },
-            "author": "MarketBeat News",
-            "title": "Apple Inc. (NASDAQ:AAPL) Shares Bought by Knuff & Co LLC",
-            "description": "Knuff & Co LLC raised its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.7% during the second quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission. The institutional investor owned 167,660 shares\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/16/apple-inc-nasdaqaapl-shares-bought-by-knuff-co-llc/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-16T08:02:49Z",
-            "content": "Knuff &amp; Co LLC raised its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.7% during the second quarter, according to the company in its most recent 13F filing with the Securities and Exch\u2026 [+7084 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ETF Daily News"
-            },
-            "author": "MarketBeat News",
-            "title": "TAP Consulting LLC Has $4.87 Million Stake in Apple Inc. (NASDAQ:AAPL)",
-            "description": "TAP Consulting LLC boosted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.9% in the 2nd quarter, according to its most recent filing with the Securities and Exchange Commission. The fund owned 23,103 shares of the iPhone maker\u2019s stock a\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/16/tap-consulting-llc-has-4-87-million-stake-in-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-16T08:37:06Z",
-            "content": "TAP Consulting LLC boosted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.9% in the 2nd quarter, according to its most recent filing with the Securities and Exchange Commission\u2026 [+7007 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ETF Daily News"
-            },
-            "author": "MarketBeat News",
-            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Advanced Asset Management Advisors Inc",
-            "description": "Advanced Asset Management Advisors Inc lessened its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.0% in the 2nd quarter, according to its most recent filing with the Securities & Exchange Commission. The fund owned 51,438 shares of the iPh\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/17/apple-inc-nasdaqaapl-shares-sold-by-advanced-asset-management-advisors-inc/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-17T07:42:56Z",
-            "content": "Advanced Asset Management Advisors Inc lessened its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.0% in the 2nd quarter, according to its most recent filing with the Securities &a\u2026 [+6661 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ETF Daily News"
-            },
-            "author": "MarketBeat News",
-            "title": "OAKMONT Corp Purchases 18,998 Shares of Apple Inc. (NASDAQ:AAPL)",
-            "description": "OAKMONT Corp raised its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 7.0% in the second quarter, according to its most recent 13F filing with the Securities & Exchange Commission. The firm owned 292,164 shares of the iPhone maker\u2019s stock af\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/16/oakmont-corp-purchases-18998-shares-of-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-16T08:02:49Z",
-            "content": "OAKMONT Corp raised its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 7.0% in the second quarter, according to its most recent 13F filing with the Securities &amp; Exchange Commissi\u2026 [+6237 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "ETF Daily News"
-            },
-            "author": "MarketBeat News",
-            "title": "United Asset Strategies Inc. Purchases 9,272 Shares of Apple Inc. (NASDAQ:AAPL)",
-            "description": "United Asset Strategies Inc. increased its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.1% during the second quarter, Holdings Channel.com reports. The firm owned 160,642 shares of the iPhone maker\u2019s stock after buying an additional 9,272 shares du\u2026",
-            "url": "https://www.etfdailynews.com/2024/10/16/united-asset-strategies-inc-purchases-9272-shares-of-apple-inc-nasdaqaapl/",
-            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
-            "publishedAt": "2024-10-16T08:02:50Z",
-            "content": "United Asset Strategies Inc. increased its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.1% during the second quarter, Holdings Channel.com reports. The firm owned 160,642 shares of the iPh\u2026 [+6395 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Biztoc.com"
-            },
-            "author": "marketbeat.com",
-            "title": "Apple's (AAPL) \"Hold\" Rating Reaffirmed at UBS Group",
-            "description": "Apple (NASDAQ:AAPL - Get Free Report)'s stock had its \"hold\" rating restated by research analysts at UBS Group in a research note issued on Wednesday, Stock Target Advisor reports. They currently have a $236.00 target price on the iPhone maker's stock. UBS Gr\u2026",
-            "url": "https://biztoc.com/x/cc5c5e305b27a7fe",
-            "urlToImage": "https://biztoc.com/cdn/cc5c5e305b27a7fe_s.webp",
-            "publishedAt": "2024-10-16T16:59:07Z",
-            "content": "Apple (NASDAQ:AAPL - Get Free Report)'s stock had its \"hold\" rating restated by research analysts at UBS Group in a research note issued on Wednesday, Stock Target Advisor reports. They currently hav\u2026 [+144 chars]"
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-11-15T14:19:25Z",
+            "content": "[Removed]"
         }
     ]
 }
