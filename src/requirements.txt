@@ -1,0 +1,2 @@
+GPUtil
+openai==0.28
